@@ -1,0 +1,31 @@
+{
+   "author": "LukeHjo",
+   "description": "Nord theme for Chromium based browsers.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjxagPo81JDfheO0BBjc6zTYySnhVyBn55Hl8aAOC/4OrzZVO2cc6G95XtyReFSQN9Hhb4Rtebb7xcxS0VEKCK0XA9t9pYNAhaOlhKFcYYLMdFIc3fM12aVaZH3QilYAVvRd8GNWJztfAzPciwDCkQR8IDLIeAmuueWIdbKqqbdE7ZNfsmFJsIVkt0v0fcwV5nS+mTR2tVd7+GSMp+Tg5EMTE+FDPl6rCorZHKgazdvVvFvRBkkRwLwm+v+n1eycBK5HMkiyaGEvO7+jhB1TR9zQ5mQ/hPswDmtM2OREzPxQJ+FyemhndC8QYyT3rVn4UH6H+BiOr5YINb5lQ6RDpkwIDAQAB",
+   "manifest_version": 2,
+   "name": "Nord Theme",
+   "theme": {
+      "colors": {
+         "background_tab": [ 46, 52, 64 ],
+         "background_tab_inactive": [ 46, 52, 64 ],
+         "background_tab_incognito": [ 46, 52, 64 ],
+         "background_tab_incognito_inactive": [ 46, 52, 64 ],
+         "bookmark_text": [ 216, 222, 233 ],
+         "frame": [ 46, 52, 64 ],
+         "frame_inactive": [ 46, 52, 64 ],
+         "frame_incognito": [ 46, 52, 64 ],
+         "frame_incognito_inactive": [ 46, 52, 64 ],
+         "omnibox_background": [ 46, 52, 64 ],
+         "omnibox_text": [ 216, 222, 233 ],
+         "tab_background_text": [ 216, 222, 233 ],
+         "tab_background_text_inactive": [ 216, 222, 233 ],
+         "tab_background_text_incognito": [ 216, 222, 233 ],
+         "tab_background_text_incognito_inactive": [ 216, 222, 233 ],
+         "tab_text": [ 216, 222, 233 ],
+         "toolbar": [ 67, 76, 94 ],
+         "toolbar_button_icon": [ 216, 222, 233 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

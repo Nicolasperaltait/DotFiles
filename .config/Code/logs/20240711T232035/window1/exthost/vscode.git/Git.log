@@ -1,0 +1,60 @@
+2024-07-11 23:20:42.029 [info] Log level: Info
+2024-07-11 23:20:42.029 [info] Validating found git in: "git"
+2024-07-11 23:20:42.029 [info] Using git "2.39.2" from "git"
+2024-07-11 23:20:44.007 [info] > git rev-parse --show-toplevel [3ms]
+2024-07-11 23:20:44.007 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-11 23:20:49.197 [info] > git rev-parse --show-toplevel [2ms]
+2024-07-11 23:20:49.197 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-11 23:21:14.563 [info] > git rev-parse --show-toplevel [10ms]
+2024-07-11 23:21:14.563 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-11 23:22:47.956 [info] > git rev-parse --show-toplevel [8ms]
+2024-07-11 23:22:47.956 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-11 23:22:59.295 [info] > git rev-parse --show-toplevel [4ms]
+2024-07-11 23:22:59.295 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-11 23:31:58.252 [info] Log level: Info
+2024-07-11 23:31:58.252 [info] Validating found git in: "git"
+2024-07-11 23:31:58.252 [info] Using git "2.39.2" from "git"
+2024-07-11 23:31:58.252 [info] > git rev-parse --show-toplevel [13ms]
+2024-07-11 23:31:58.258 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-07-11 23:31:58.279 [info] Open repository: /media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3
+2024-07-11 23:31:58.571 [info] > git rev-parse --show-toplevel [167ms]
+2024-07-11 23:31:58.573 [info] > git config --get commit.template [178ms]
+2024-07-11 23:31:58.678 [info] > git rev-parse --show-toplevel [16ms]
+2024-07-11 23:31:58.680 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [24ms]
+2024-07-11 23:31:58.739 [info] > git status -z -uall [43ms]
+2024-07-11 23:31:58.795 [info] > git config --get commit.template [22ms]
+2024-07-11 23:31:58.812 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [8ms]
+2024-07-11 23:31:58.831 [info] > git status -z -uall [12ms]
+2024-07-11 23:31:58.932 [info] > git check-ignore -v -z --stdin [4ms]
+2024-07-11 23:31:59.268 [info] > git fetch [989ms]
+2024-07-11 23:31:59.277 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-07-11 23:31:59.278 [info] > git config --get commit.template [2ms]
+2024-07-11 23:31:59.290 [info] > git status -z -uall [9ms]
+2024-07-11 23:32:00.352 [info] > git config --get commit.template [7ms]
+2024-07-11 23:32:00.353 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-07-11 23:32:00.367 [info] > git status -z -uall [8ms]
+2024-07-11 23:35:54.362 [info] > git fetch [753ms]
+2024-07-11 23:35:54.375 [info] > git config --get commit.template [6ms]
+2024-07-11 23:35:54.377 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-07-11 23:35:54.397 [info] > git status -z -uall [9ms]
+2024-07-11 23:37:12.505 [info] > git config --get commit.template [27ms]
+2024-07-11 23:37:12.509 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [5ms]
+2024-07-11 23:37:12.521 [info] > git status -z -uall [8ms]
+2024-07-11 23:40:25.598 [info] > git show --textconv :dotfiles/dunst/dunstrc [6ms]
+2024-07-11 23:40:25.601 [info] > git ls-files --stage -- /media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/dotfiles/dunst/dunstrc [3ms]
+2024-07-11 23:40:25.932 [info] > git check-ignore -v -z --stdin [5ms]
+2024-07-11 23:40:33.484 [info] > git config --get commit.template [2ms]
+2024-07-11 23:40:33.494 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-07-11 23:40:33.505 [info] > git status -z -uall [6ms]
+2024-07-11 23:40:34.209 [info] > git fetch [735ms]
+2024-07-11 23:40:34.220 [info] > git config --get commit.template [5ms]
+2024-07-11 23:40:34.224 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2024-07-11 23:40:34.235 [info] > git status -z -uall [8ms]
+2024-07-11 23:40:47.373 [info] > git ls-files --stage -- /media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/dotfiles/dunst/dunstrc [8ms]
+2024-07-11 23:40:47.382 [info] > git config --get commit.template [10ms]
+2024-07-11 23:40:47.388 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2024-07-11 23:40:47.393 [info] > git show --textconv :dotfiles/dunst/dunstrc [5ms]
+2024-07-11 23:40:47.400 [info] > git status -z -uall [8ms]
+2024-07-11 23:41:03.598 [info] > git config --get commit.template [1ms]
+2024-07-11 23:41:03.606 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-07-11 23:41:03.620 [info] > git status -z -uall [10ms]

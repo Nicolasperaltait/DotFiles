@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "editor.cursorStyle": "line-thin",
+    "editor.fontFamily": "Hack Nerd Font Mono",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 18,
+    "workbench.iconTheme": "vscode-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "mssql.connections": [],
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Windows PowerShell": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "terminal.integrated.automationProfile.windows": {},
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false
+}

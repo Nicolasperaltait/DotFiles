@@ -1,0 +1,10 @@
+2024-07-23 16:04:37.029 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-07-23 16:04:37.029 [warning] Missing property "cmdkBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-07-23 16:04:37.029 [warning] Missing property "hfUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-07-23 16:04:37.029 [warning] Missing property "shouldMigrateFromGpt4ToGpt4o" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-07-23 16:04:37.030 [warning] Missing property "indexingState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-07-23 16:04:37.237 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-07-23 16:04:37.300 [info] Started local extension host with pid 1302617.
+2024-07-23 16:04:38.051 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at B.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursorBzcNcy/resources/app/out/vs/workbench/workbench.desktop.main.js:21458:6860)
+2024-07-23 16:04:41.195 [info] [perf] Render performance baseline is 36ms

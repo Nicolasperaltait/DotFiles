@@ -1,0 +1,14 @@
+#=========================================================#
+
+## Audio 
+
+Remmina error de insercion de sonido 
+
+Redirigir microfono local = sys:pulse,format:1
+
+
+Se encontro la respuesta en: 
+https://gitlab.com/Remmina/Remmina/-/issues/2794
+
+
+#=========================================================# 

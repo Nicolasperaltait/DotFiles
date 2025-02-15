@@ -1,0 +1,4 @@
+2024-06-18 10:58:59.387 [info] Backend URL: https://api2.cursor.sh
+2024-06-18 10:58:59.578 [info] created the client
+2024-06-18 10:58:59.578 [error] No access token, cannot create the client
+2024-06-18 10:58:59.578 [info] Is file sync enabled: false

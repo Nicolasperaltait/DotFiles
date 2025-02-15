@@ -1,0 +1,3 @@
+2024-06-18 10:57:21.463 [info] Started initializing default profile extensions in extensions installation folder. file:///home/nicolas/.cursor/extensions
+2024-06-18 10:57:21.830 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/nicolas/.cursor/extensions Unable to create file 'vscode-userdata:/home/nicolas/.cursor/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-06-18 10:57:21.832 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/nicolas/.cursor/extensions

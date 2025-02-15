@@ -1,0 +1,107 @@
+2024-07-23 13:46:24.650 [info] Extension host with pid 3663484 started
+2024-07-23 13:46:24.695 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-23 13:46:24.701 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-07-23 13:46:24.757 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-23 13:46:24.879 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-23 13:46:25.067 [info] Eager extensions activated
+2024-07-23 13:46:25.080 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:25.583 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:25.864 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:25.938 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.181 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.184 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.205 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.313 [info] ExtensionService#_doActivateExtension inferrinizzard.prettier-sql-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.341 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.391 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.409 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.476 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-07-23 13:46:26.934 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-23 13:46:26.968 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:26.968 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:26.969 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:26.969 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:26.969 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:26.969 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:26.969 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.E [as $6] (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:967)
+	at /tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2335
+	at Array.forEach (<anonymous>)
+	at h.dispose (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2273)
+	at d.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8070)
+	at u.terminate (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) 
+2024-07-23 13:46:27.039 [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at new F (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:47715)
+	at h.U (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:5548)
+	at j.<computed>.V.charCodeAt.j.<computed> (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2993)
+	at J.resolveProxy (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:165:43866)
+	at Object.resolveProxy (/tmp/.mount_cursormFMgwW/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:147:33382)
+	at useProxySettings (/tmp/.mount_cursormFMgwW/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:165:16)
+	at /tmp/.mount_cursormFMgwW/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:113:13
+	at /tmp/.mount_cursormFMgwW/resources/app/node_modules.asar/@vscode/proxy-agent/out/index.js:459:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-07-23 13:46:27.049 [info] Extension host with pid 3663484 exiting with code 0

@@ -1,0 +1,1 @@
+clockifyButton.render(".tasks-task__paper:not(.clockify)",{observe:!0},(function(t){var n;n=clockifyButton.createButton($(".tasks-title__text span:first-child").textContent),$(".tasks-task__info_actions_container",t).appendChild(n)}));

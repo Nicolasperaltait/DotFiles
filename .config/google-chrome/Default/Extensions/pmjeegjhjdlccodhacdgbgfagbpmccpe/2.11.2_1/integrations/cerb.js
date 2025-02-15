@@ -1,0 +1,1 @@
+clockifyButton.render("#widget99:not(.clockify)",{observe:!0},(function(e){const t=document.getElementById("clockify-task-name"),n=null!==t?t.innerText:document.getElementsByClassName("cerb-subpage")[0].getElementsByTagName("h1")[0].innerText,c=document.getElementById("clockify-project-name"),o=null!==c?c.innerText:"",l=clockifyButton.createButton(n,o);e.appendChild(l)}));

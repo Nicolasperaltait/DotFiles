@@ -1,0 +1,16 @@
+2024-07-23 23:01:22.795 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-07-23 23:01:22.889 [info] Started local extension host with pid 2546443.
+2024-07-23 23:01:24.143 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at j.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:21456:6690)
+2024-07-23 23:01:26.915 [info] [perf] Render performance baseline is 49ms
+2024-07-23 23:01:36.922 [error] Error while registering log channel file:///home/nicolas/.config/Cursor/logs/20240723T230119/window1/exthost/anysphere.cursor-retrieval/Cursor%20extension%20logs.log Timed out while waiting for file to be created
+2024-07-23 23:02:19.284 [error] Cancelled: Canceled
+    at he.D (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:1260:26480)
+    at async he.B (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:1260:22498)
+    at async he.getExtensions (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:1260:18869)
+    at async X.getExtensions (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:22196:14235)
+    at async He.Wc (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:23113:29541)
+    at async He.ed (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:23113:32346)
+    at async He.Ac (vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:23113:18366)
+    at async vscode-file://vscode-app/tmp/.mount_cursorBH5YC0/resources/app/out/vs/workbench/workbench.desktop.main.js:23113:16482
+2024-07-23 23:02:32.930 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.

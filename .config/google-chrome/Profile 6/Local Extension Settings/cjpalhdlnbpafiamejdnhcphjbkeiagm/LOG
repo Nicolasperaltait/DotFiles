@@ -1,0 +1,43 @@
+2024/07/24-15:02:12.306 208272 Reusing MANIFEST /home/nicolas/.config/google-chrome/Profile 6/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/07/24-15:02:12.306 208272 Recovering log #34
+2024/07/24-15:02:12.307 208272 Reusing old log /home/nicolas/.config/google-chrome/Profile 6/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000034.log 
+2024/07/24-15:02:17.906 208273 Level-0 table #38: started
+2024/07/24-15:02:17.933 208273 Level-0 table #38: 4527617 bytes OK
+2024/07/24-15:02:17.935 208273 Delete type=0 #34
+2024/07/24-15:03:27.768 208276 Level-0 table #40: started
+2024/07/24-15:03:27.798 208276 Level-0 table #40: 4952477 bytes OK
+2024/07/24-15:03:27.800 208276 Delete type=0 #37
+2024/07/24-15:03:31.309 208273 Level-0 table #42: started
+2024/07/24-15:03:31.353 208273 Level-0 table #42: 4494651 bytes OK
+2024/07/24-15:03:31.355 208273 Delete type=0 #39
+2024/07/24-15:03:31.356 208273 Compacting 4@0 + 4@1 files
+2024/07/24-15:03:31.372 208273 Generated table #43@0: 6 keys, 2520494 bytes
+2024/07/24-15:03:31.391 208273 Generated table #44@0: 10 keys, 2958437 bytes
+2024/07/24-15:03:31.409 208273 Generated table #45@0: 5 keys, 2820784 bytes
+2024/07/24-15:03:31.466 208273 Generated table #46@0: 2 keys, 4494651 bytes
+2024/07/24-15:03:31.475 208273 Generated table #47@0: 10 keys, 1282537 bytes
+2024/07/24-15:03:31.475 208273 Compacted 4@0 + 4@1 files => 14076903 bytes
+2024/07/24-15:03:31.477 208273 compacted to: files[ 0 5 1 0 0 0 0 ]
+2024/07/24-15:03:31.477 208273 Delete type=2 #38
+2024/07/24-15:03:31.477 208273 Delete type=2 #35
+2024/07/24-15:03:31.477 208273 Delete type=2 #40
+2024/07/24-15:03:31.477 208273 Delete type=2 #33
+2024/07/24-15:03:31.477 208273 Delete type=2 #32
+2024/07/24-15:03:31.477 208273 Delete type=2 #42
+2024/07/24-15:03:31.477 208273 Delete type=2 #30
+2024/07/24-15:03:31.477 208273 Delete type=2 #31
+2024/07/24-15:03:31.481 208273 Expanding@1 1+1 (2520494+4640004 bytes) to 5+1 (14076903+4640004 bytes)
+2024/07/24-15:03:31.481 208273 Compacting 5@1 + 1@2 files
+2024/07/24-15:03:31.496 208273 Generated table #48@1: 6 keys, 2520494 bytes
+2024/07/24-15:03:31.514 208273 Generated table #49@1: 10 keys, 2958437 bytes
+2024/07/24-15:03:31.530 208273 Generated table #50@1: 6 keys, 2904867 bytes
+2024/07/24-15:03:31.578 208273 Generated table #51@1: 2 keys, 4494651 bytes
+2024/07/24-15:03:31.588 208273 Generated table #52@1: 17 keys, 1284406 bytes
+2024/07/24-15:03:31.588 208273 Compacted 5@1 + 1@2 files => 14162855 bytes
+2024/07/24-15:03:31.589 208273 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/07/24-15:03:31.589 208273 Delete type=2 #46
+2024/07/24-15:03:31.589 208273 Delete type=2 #44
+2024/07/24-15:03:31.590 208273 Delete type=2 #5
+2024/07/24-15:03:31.590 208273 Delete type=2 #45
+2024/07/24-15:03:31.590 208273 Delete type=2 #47
+2024/07/24-15:03:31.590 208273 Delete type=2 #43

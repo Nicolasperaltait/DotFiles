@@ -1,0 +1,21 @@
+2024-07-11 23:20:45.340 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-11 23:20:45.340 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-11 23:20:45.340 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-11 23:20:45.340 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-11 23:20:45.340 [info] Experiment 'pythonTestAdapter' is active
+2024-07-11 23:20:45.398 [info] Python interpreter path: /bin/python3
+2024-07-11 23:20:46.743 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-07-11 23:20:46.750 [info] > pixi --version
+2024-07-11 23:20:46.753 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-11 23:20:46.753 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-07-11 23:20:46.913 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-07-11 23:20:46.997 [info] Starting Pylance language server.

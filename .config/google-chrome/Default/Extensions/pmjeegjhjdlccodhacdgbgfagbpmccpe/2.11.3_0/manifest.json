@@ -1,0 +1,55 @@
+{
+   "action": {
+      "default_popup": "index.html",
+      "default_title": "Clockify"
+   },
+   "background": {
+      "service_worker": "sw.js"
+   },
+   "commands": {
+      "quick-start-stop-entry": {
+         "description": "Quick start/stop current entry",
+         "suggested_key": {
+            "default": "Ctrl+Shift+U"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "contentScripts/service-localstorage.js", "contentScripts/clockifyLocales.js" ],
+      "matches": [ "https://*/*", "http://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "css": [ "styles/main-integration.css" ],
+      "js": [ "vendors.bundle.js", "main.bundle.js" ],
+      "matches": [ "https://*/*", "http://*/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "differential_fingerprint": "1.b4def6d603836db091abe05f57be1e3ba0b65ca6ce2e533855908e476470066e",
+   "externally_connectable": {
+      "accepts_tls_channel_id": false,
+      "ids": [ "*" ]
+   },
+   "host_permissions": [ "*://*/", "*://*.clockify.me/*" ],
+   "icons": {
+      "128": "assets/images/logo-128.png",
+      "16": "assets/images/logo-16.png",
+      "48": "assets/images/logo-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnGPvcU+dm/buLXvICzoohIQrifJQyUq2CggI7hK8rfl/lowHVpMWKGep83DoKtoc9b7ITmuFbdfJAvYzewKoGu2wJWM9rUH1mZaUtcqwOLxRvYQpiJzr+EXzUU3foFaqf//KNjsmWkV8hy0Uw6Hd0fB24kWdnlbIWE13YeCHifgH5gHJbNzBw6SEOWg5EAt986El6+xFhjtL40HdJwZ2gRJvSvM1qSr3HAIQBb5P/fJeOkBYSnt8+XkbvlWgxWANiWmBco+Zj4sUBmuRUOapVhajRaiGXU/fA5jCnE3Q6QJAv2W7piDJIYTWpvpPsTfZxmgc0TBGF7uvpeJsJmqFmQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "optional_permissions": [ "*://*/" ],
+   "options_page": "settings.html",
+   "permissions": [ "background", "contextMenus", "storage", "tabs", "activeTab", "identity", "idle", "notifications", "scripting", "alarms" ],
+   "short_name": "Clockify",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.11.3",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "assets/images/*.png", "assets/images/*.svg", "assets/images/ui-icons/*.svg" ]
+   } ]
+}

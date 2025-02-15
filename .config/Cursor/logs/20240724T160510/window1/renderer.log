@@ -1,0 +1,7 @@
+2024-07-24 16:05:13.614 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-07-24 16:05:13.682 [info] Started local extension host with pid 3494416.
+2024-07-24 16:05:13.787 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at j.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursoruuhZNl/resources/app/out/vs/workbench/workbench.desktop.main.js:21456:6690)
+2024-07-24 16:05:14.365 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-07-24 16:05:17.500 [info] [perf] Render performance baseline is 42ms
+2024-07-24 16:05:27.486 [error] Error while registering log channel file:///home/nicolas/.config/Cursor/logs/20240724T160510/window1/exthost/anysphere.cursor-retrieval/Cursor%20extension%20logs.log Timed out while waiting for file to be created

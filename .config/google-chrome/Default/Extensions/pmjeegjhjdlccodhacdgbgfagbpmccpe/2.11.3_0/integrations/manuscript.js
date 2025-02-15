@@ -1,0 +1,1 @@
+clockifyButton.render(".case:not(.clockify)",{observe:!0},(e=>{var t,o=$("h1",e).textContent,n=createTag("div","clockify-container"),c=$(".controls");(t=clockifyButton.createButton(o)).style.position="relative",t.style.top="0px",t.style.left="15px",n.appendChild(t),c.parentNode.insertBefore(n,c)}));

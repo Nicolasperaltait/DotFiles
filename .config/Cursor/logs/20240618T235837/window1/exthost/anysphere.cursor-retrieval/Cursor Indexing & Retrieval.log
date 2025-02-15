@@ -1,0 +1,20 @@
+2024-06-18 23:58:41.914 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-06-18 23:58:41.914 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)
+2024-06-18 23:58:42.140 [error] NoWorkspaceUriError
+2024-06-18 23:59:39.621 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-06-18 23:59:39.621 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)
+2024-06-18 23:59:39.812 [error] NoWorkspaceUriError

@@ -1,0 +1,2 @@
+Loyal
+checksum_v1 = aa03e08d0554f06e80f0c42e4cf8d404

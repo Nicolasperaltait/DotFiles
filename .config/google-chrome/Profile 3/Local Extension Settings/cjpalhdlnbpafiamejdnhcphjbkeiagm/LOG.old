@@ -1,0 +1,46 @@
+2024/07/13-12:56:41.700 fdd78 Reusing MANIFEST /home/nicolas/.config/google-chrome/Profile 3/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/07/13-12:56:41.700 fdd78 Recovering log #55
+2024/07/13-12:56:41.723 fdd78 Reusing old log /home/nicolas/.config/google-chrome/Profile 3/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000055.log 
+2024/07/13-12:56:45.050 fdd79 Level-0 table #59: started
+2024/07/13-12:56:45.123 fdd79 Level-0 table #59: 4131653 bytes OK
+2024/07/13-12:56:45.126 fdd79 Delete type=0 #55
+2024/07/13-12:57:47.128 fdd78 Level-0 table #61: started
+2024/07/13-12:57:47.160 fdd78 Level-0 table #61: 5346741 bytes OK
+2024/07/13-12:57:47.161 fdd78 Delete type=0 #58
+2024/07/13-12:57:50.687 fdd7e Level-0 table #63: started
+2024/07/13-12:57:50.937 fdd7e Level-0 table #63: 4545773 bytes OK
+2024/07/13-12:57:50.942 fdd7e Delete type=0 #60
+2024/07/13-13:57:51.106 fdd79 Level-0 table #65: started
+2024/07/13-13:57:51.159 fdd79 Level-0 table #65: 7018446 bytes OK
+2024/07/13-13:57:51.161 fdd79 Delete type=0 #62
+2024/07/13-13:57:51.162 fdd79 Compacting 4@0 + 1@1 files
+2024/07/13-13:57:51.178 fdd79 Generated table #66@0: 4 keys, 2490923 bytes
+2024/07/13-13:57:51.198 fdd79 Generated table #67@0: 8 keys, 2794501 bytes
+2024/07/13-13:57:51.211 fdd79 Generated table #68@0: 2 keys, 2458981 bytes
+2024/07/13-13:57:51.272 fdd79 Generated table #69@0: 2 keys, 4580752 bytes
+2024/07/13-13:57:51.284 fdd79 Generated table #70@0: 10 keys, 1281581 bytes
+2024/07/13-13:57:51.284 fdd79 Compacted 4@0 + 1@1 files => 13606738 bytes
+2024/07/13-13:57:51.285 fdd79 compacted to: files[ 0 5 5 0 0 0 0 ]
+2024/07/13-13:57:51.286 fdd79 Delete type=2 #65
+2024/07/13-13:57:51.286 fdd79 Delete type=2 #59
+2024/07/13-13:57:51.286 fdd79 Delete type=2 #61
+2024/07/13-13:57:51.286 fdd79 Delete type=2 #63
+2024/07/13-13:57:51.286 fdd79 Delete type=2 #56
+2024/07/13-13:57:51.290 fdd79 Compacting 1@1 + 1@2 files
+2024/07/13-13:57:51.306 fdd79 Generated table #71@1: 6 keys, 2507831 bytes
+2024/07/13-13:57:51.306 fdd79 Compacted 1@1 + 1@2 files => 2507831 bytes
+2024/07/13-13:57:51.307 fdd79 compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/07/13-13:57:51.307 fdd79 Delete type=2 #66
+2024/07/13-13:57:51.308 fdd79 Delete type=2 #49
+2024/07/13-13:57:51.308 fdd79 Compacting 1@1 + 1@2 files
+2024/07/13-13:57:51.325 fdd79 Generated table #72@1: 10 keys, 2952732 bytes
+2024/07/13-13:57:51.325 fdd79 Compacted 1@1 + 1@2 files => 2952732 bytes
+2024/07/13-13:57:51.326 fdd79 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/07/13-13:57:51.327 fdd79 Delete type=2 #50
+2024/07/13-13:57:51.327 fdd79 Delete type=2 #67
+2024/07/13-14:57:48.929 fdd79 Level-0 table #74: started
+2024/07/13-14:57:48.950 fdd79 Level-0 table #74: 4441257 bytes OK
+2024/07/13-14:57:48.952 fdd79 Delete type=0 #64
+2024/07/13-14:57:52.445 fdd79 Level-0 table #76: started
+2024/07/13-14:57:52.491 fdd79 Level-0 table #76: 4520643 bytes OK
+2024/07/13-14:57:52.493 fdd79 Delete type=0 #73

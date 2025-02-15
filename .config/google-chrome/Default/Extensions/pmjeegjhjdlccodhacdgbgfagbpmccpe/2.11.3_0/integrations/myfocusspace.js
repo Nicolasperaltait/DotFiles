@@ -1,0 +1,1 @@
+clockifyButton.render("#clockify_zone:not(.clockify)",{observe:!0},(function(e){var n,o;o=e.parentNode.innerText,(n=clockifyButton.createSmallButton(o)).style.padding="10px",e.appendChild(n)}));

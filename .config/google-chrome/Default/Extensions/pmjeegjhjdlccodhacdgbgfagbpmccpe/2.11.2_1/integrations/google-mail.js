@@ -1,0 +1,1 @@
+clockifyButton.render("div.nH div.ha:not(.clockify)",{observe:!0},(function(t){let e,n=$("h2",t);n&&(e=clockifyButton.createButton(n.textContent),e.style.marginLeft="20px",e.style.fontSize="14px",t.appendChild(e))}));

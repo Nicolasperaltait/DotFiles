@@ -1,0 +1,6 @@
+2024/07/24-15:02:11.616 208273 Reusing MANIFEST /home/nicolas/.config/google-chrome/Profile 6/Sync Data/LevelDB/MANIFEST-000001
+2024/07/24-15:02:11.619 208273 Recovering log #11
+2024/07/24-15:02:11.629 208273 Reusing old log /home/nicolas/.config/google-chrome/Profile 6/Sync Data/LevelDB/000011.log 
+2024/07/24-15:02:20.888 208273 Level-0 table #15: started
+2024/07/24-15:02:20.892 208273 Level-0 table #15: 145647 bytes OK
+2024/07/24-15:02:20.894 208273 Delete type=0 #11

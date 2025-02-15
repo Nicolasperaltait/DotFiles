@@ -1,0 +1,7 @@
+2024/07/05-16:54:48.497 42a37 Reusing MANIFEST /home/nicolas/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/05-16:54:48.498 42a37 Recovering log #4
+2024/07/05-16:54:48.498 42a37 Reusing old log /home/nicolas/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/000004.log 
+2024/07/05-16:54:48.681 42a83 Level-0 table #8: started
+2024/07/05-16:54:48.682 42a83 Level-0 table #8: 2380 bytes OK
+2024/07/05-16:54:48.684 42a83 Delete type=0 #4
+2024/07/05-16:54:48.684 42a37 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

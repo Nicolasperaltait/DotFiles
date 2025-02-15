@@ -1,0 +1,1 @@
+(async()=>{clockifyButton.render(await getSelectors("wrike","taskView","hanger"),{observe:!0},(async e=>{const t=await getSelectors("wrike","taskView"),o=clockifyButton.createButton({description:()=>$(t.description).textContent,projectName:()=>$(t.projectFromTaskTag,e)?.textContent||$(t.projectFromPageHeader)?.textContent});o.style.minWidth="110px",e.prepend(o)}))})();

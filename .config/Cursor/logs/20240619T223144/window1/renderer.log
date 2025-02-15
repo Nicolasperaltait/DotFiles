@@ -1,0 +1,5 @@
+2024-06-19 22:31:47.726 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-06-19 22:31:47.783 [info] Started local extension host with pid 666733.
+2024-06-19 22:31:48.096 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at j.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursorlu4wY6/resources/app/out/vs/workbench/workbench.desktop.main.js:21456:6690)
+2024-06-19 22:31:51.536 [info] [perf] Render performance baseline is 38ms

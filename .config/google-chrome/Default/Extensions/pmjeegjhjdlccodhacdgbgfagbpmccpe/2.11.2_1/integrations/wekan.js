@@ -1,0 +1,1 @@
+clockifyButton.render(".checklist-item:not(.clockify)",{observe:!0},(t=>{let e=$(".item-title > .viewer > p",t),i=clockifyButton.createSmallButton(e.textContent);i.style.position="right",i.style.left="15px",i.style.fontSize="16px",t.appendChild(i)}));

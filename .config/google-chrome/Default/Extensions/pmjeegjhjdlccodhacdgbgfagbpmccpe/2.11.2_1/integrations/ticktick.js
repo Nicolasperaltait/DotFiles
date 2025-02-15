@@ -1,0 +1,1 @@
+clockifyButton.render("#td-caption:not(.clockify)",{observe:!0},(t=>{t.querySelector("#clockifyButton")?.remove();const e=clockifyButton.createButton({description:()=>$('span[role="presentation"]',t).textContent,tagNames:()=>Array.from($$(".content-editor .tag-name")).map((t=>t.textContent))});e.style.margin="10px 0",t.append(e)}),null,'#td-caption span[role="presentation"]');

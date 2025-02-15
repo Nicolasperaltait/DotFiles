@@ -1,0 +1,1 @@
+clockifyButton.render("#treeitem_panel .details.page:not(.clockify)",{observe:!0},(e=>{var t,n=$("#treeitem_panel_name").textContent;t=clockifyButton.createButton(n),e.insertBefore(t,e.firstChild)}));

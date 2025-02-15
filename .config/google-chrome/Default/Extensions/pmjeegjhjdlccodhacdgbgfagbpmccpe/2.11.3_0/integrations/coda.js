@@ -1,0 +1,1 @@
+(async()=>{clockifyButton.render(await getSelectors("coda","documentView","hanger"),{observe:!0},(t=>{if("d"!==location.pathname.split("/")[1])return;$("#clockifyButton")?.remove();const e=document.title,o=clockifyButton.createButton({description:e});o.style.margin="0 15px",o.style.pointerEvents="all",t.after(o)}))})();

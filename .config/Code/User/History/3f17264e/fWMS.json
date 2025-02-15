@@ -1,0 +1,70 @@
+{
+    "workbench.colorTheme": "United Ubuntu",
+    "editor.cursorStyle": "line-thin",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "mssql.connections": [],
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Windows PowerShell": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        },
+
+    },  
+    "terminal.integrated.automationProfile.windows": {},
+    "workbench.activityBar.location": "top",
+    "git.enableSmartCommit": true,
+    "remoteHub.commitDirectlyWarning": "off",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.statusBar.visible": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "Liberation mono, monospace, Symbols Nerd Font Mono, Symbols Nerd Font, Font Awesome",
+    "terminal.integrated.fontSize": 18,
+    "editor.fontVariations": false,
+    "editor.fontFamily": "Liberation mono Symbols nerd font",
+    "explorer.confirmDelete": false,
+    "workbench.editor.showTabs": "none",
+    "glassit.alpha": 1,
+    "json.schemas": 
+    [
+
+
+    ],
+    "window.confirmSaveUntitledWorkspace": false,
+    "workbench.layoutControl.enabled": false,
+    "extensions.supportUntrustedWorkspaces": {
+    
+    },
+    "colorize.languages": [
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "HEXA",
+        "ini"
+    ]
+}

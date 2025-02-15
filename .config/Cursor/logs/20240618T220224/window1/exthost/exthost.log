@@ -1,0 +1,138 @@
+2024-06-18 22:02:27.857 [info] Extension host with pid 230062 started
+2024-06-18 22:02:27.857 [info] Skipping acquiring lock for /home/nicolas/.config/Cursor/User/workspaceStorage/1bed50814948e7ed85aaa22ca63c1856.
+2024-06-18 22:02:27.976 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-18 22:02:28.010 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-18 22:02:28.107 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-18 22:02:28.284 [info] Eager extensions activated
+2024-06-18 22:02:28.328 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:28.839 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.113 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.175 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.430 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.433 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.465 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.578 [info] ExtensionService#_doActivateExtension inferrinizzard.prettier-sql-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.602 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.658 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:02:29.677 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:14:42.060 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-18 22:14:42.149 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-18 22:14:42.228 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-18 22:15:07.181 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-18 22:15:07.232 [info] Extension host with pid 230062 exiting with code 0
+2024-06-18 22:15:07.966 [info] Extension host with pid 270641 started
+2024-06-18 22:15:07.966 [info] Skipping acquiring lock for /home/nicolas/.config/Cursor/User/workspaceStorage/1bed50814948e7ed85aaa22ca63c1856.
+2024-06-18 22:15:07.991 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-18 22:15:08.015 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-18 22:15:08.041 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-18 22:15:08.333 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-18 22:15:08.335 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-06-18 22:15:08.360 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-18 22:15:08.381 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-18 22:15:08.435 [info] Eager extensions activated
+2024-06-18 22:15:08.459 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:08.684 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:08.872 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:08.884 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.085 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.087 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.093 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.170 [info] ExtensionService#_doActivateExtension inferrinizzard.prettier-sql-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.188 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.232 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.249 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:15:09.308 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:16:19.850 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-18 22:16:56.991 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-18 22:16:57.033 [error] Canceled: Canceled
+	at new F (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:47715)
+	at h.U (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:5548)
+	at j.<computed>.V.charCodeAt.j.<computed> (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2993)
+	at s.g (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191862)
+	at s.executeCommand (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191300)
+	at N.registerCommand.description (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:190624)
+	at s.h (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:192401)
+	at s.g (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191393)
+	at s.executeCommand (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191300)
+	at Object.executeCommand (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:25801)
+	at u.O [as value] (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:945393)
+	at f.y (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:660)
+	at f.z (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:730)
+	at f.fire (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:946)
+	at Object.f [as dispose] (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:964445)
+	at /tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:970483
+	at Array.forEach (<anonymous>)
+	at y.dispose (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:970469)
+	at a.<anonymous> (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:3973)
+	at a.dispose (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:4070)
+	at a.<anonymous> (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:947650)
+	at a.dispose (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:4070)
+	at u (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at d.eb (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:9985)
+	at /tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:7831
+	at Array.map (<anonymous>)
+	at d.$ (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:7818)
+	at d.terminate (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8094)
+	at u.terminate (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-18 22:16:57.033 [error] Canceled: Canceled
+	at new F (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:47715)
+	at h.U (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:5548)
+	at j.<computed>.V.charCodeAt.j.<computed> (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:2993)
+	at s.g (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191862)
+	at s.executeCommand (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191300)
+	at N.registerCommand.description (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:190624)
+	at s.h (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:192401)
+	at s.g (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191393)
+	at s.executeCommand (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:162:191300)
+	at Object.executeCommand (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:25801)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/tmp/.mount_cursorHuALDj/resources/app/extensions/github/dist/extension.js:2:322968)
+	at /tmp/.mount_cursorHuALDj/resources/app/extensions/github/dist/extension.js:2:323927
+	at u.value (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:1052859)
+	at f.y (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:660)
+	at f.z (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:730)
+	at f.fire (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:946)
+	at Object.f [as dispose] (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:964445)
+	at /tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:970483
+	at Array.forEach (<anonymous>)
+	at y.dispose (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:970469)
+	at a.<anonymous> (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:3973)
+	at a.dispose (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:4070)
+	at a.<anonymous> (/tmp/.mount_cursorHuALDj/resources/app/extensions/git/dist/main.js:2:947650)
+	at a.dispose (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:4070)
+	at u (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at d.eb (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:9985)
+	at /tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:7831
+	at Array.map (<anonymous>)
+	at d.$ (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:7818)
+	at d.terminate (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:8094)
+	at u.terminate (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:1511)
+	at n (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:9944)
+	at MessagePortMain.<anonymous> (/tmp/.mount_cursorHuALDj/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:185:6369)
+	at MessagePortMain.emit (node:events:517:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-06-18 22:16:57.035 [info] Extension host with pid 270641 exiting with code 0
+2024-06-18 22:16:59.083 [info] Extension host with pid 275956 started
+2024-06-18 22:16:59.083 [info] Skipping acquiring lock for /home/nicolas/.config/Cursor/User/workspaceStorage/b11e60db37e03a6aec06eb0fbf6c0b1a.
+2024-06-18 22:16:59.146 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-18 22:16:59.149 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-06-18 22:16:59.257 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-18 22:16:59.289 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-18 22:16:59.376 [info] Eager extensions activated
+2024-06-18 22:16:59.423 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:16:59.785 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:16:59.894 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:16:59.906 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.158 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.165 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.172 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.258 [info] ExtensionService#_doActivateExtension inferrinizzard.prettier-sql-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.276 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.326 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.344 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:00.406 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-06-18 22:17:01.067 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-06-18 22:17:01.660 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

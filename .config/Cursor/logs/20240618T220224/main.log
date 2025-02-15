@@ -1,0 +1,16 @@
+2024-06-18 22:02:24.630 [info] update#setState disabled
+2024-06-18 22:02:24.646 [info] update#ctor - updates are disabled as there is no update URL
+2024-06-18 22:02:24.747 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-06-18 22:02:24.747 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-06-18 22:02:24.747 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-06-18 22:02:24.748 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-06-18 22:02:24.748 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-06-18 22:02:24.764 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2024-06-18 22:02:24.764 [error] Error: SQLITE_CANTOPEN: unable to open database file
+2024-06-18 22:15:00.939 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-06-18 22:15:00.939 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-06-18 22:15:00.943 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2024-06-18 22:15:00.943 [error] Error: SQLITE_CANTOPEN: unable to open database file
+2024-06-18 22:15:07.234 [info] Extension host with pid 230062 exited with code: 0, signal: unknown.
+2024-06-18 22:16:57.035 [info] Extension host with pid 270641 exited with code: 0, signal: unknown.
+2024-06-18 22:22:04.671 [info] Extension host with pid 275956 exited with code: 0, signal: unknown.

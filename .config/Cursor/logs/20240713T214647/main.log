@@ -1,0 +1,10 @@
+2024-07-13 21:46:48.127 [info] update#setState disabled
+2024-07-13 21:46:48.128 [info] update#ctor - updates are disabled as there is no update URL
+2024-07-13 21:46:48.226 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-07-13 21:46:48.226 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-07-13 21:46:48.226 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-07-13 21:46:48.226 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-07-13 21:46:48.240 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2024-07-13 21:46:48.240 [error] Error: SQLITE_CANTOPEN: unable to open database file
+2024-07-13 21:46:50.113 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-07-13 21:47:02.934 [info] Extension host with pid 2174391 exited with code: 0, signal: unknown.

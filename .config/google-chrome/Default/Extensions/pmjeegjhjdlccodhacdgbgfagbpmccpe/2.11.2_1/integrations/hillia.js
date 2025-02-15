@@ -1,0 +1,1 @@
+clockifyButton.render(".task-list-item:not(.clockify):not(.flex-grow)",{observe:!0},(function(e){const t=$("h2.montserrat.flex").innerText,n=e.parentNode.previousSibling.querySelector("input").value,o=e.querySelector("input").value,r=clockifyButton.createButton({projectName:t,taskName:n,description:o});r.style.width="120px",r.style.margin="0 10px",e.append(r)}));

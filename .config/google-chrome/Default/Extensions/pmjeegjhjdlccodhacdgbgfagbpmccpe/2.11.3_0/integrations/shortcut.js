@@ -1,0 +1,1 @@
+(async()=>{clockifyButton.render(await getSelectors("shortcut","storyModal","hanger"),{observe:!0},(async t=>{const e=await getSelectors("shortcut","storyModal"),a=$(e.stateAttribute,t),o=createTag("div","attribute editable-attribute"),r=clockifyButton.createButton({description:()=>$(e.description,t).textContent});o.appendChild(r),a.after(o)}))})();

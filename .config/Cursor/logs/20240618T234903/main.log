@@ -1,0 +1,6 @@
+2024-06-18 23:49:04.043 [info] update#setState disabled
+2024-06-18 23:49:04.059 [info] update#ctor - updates are disabled as there is no update URL
+2024-06-18 23:49:04.161 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-06-18 23:49:04.161 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-06-18 23:49:06.305 [error] vscode-file: Refused to load resource /tmp/.mount_cursor30Gc8B/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursor30Gc8B/resources/app/extensions/theme-seti/icons/seti.woff)
+2024-06-18 23:49:24.966 [info] Extension host with pid 157594 exited with code: 0, signal: unknown.

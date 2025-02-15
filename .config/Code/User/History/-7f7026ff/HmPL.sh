@@ -1,0 +1,54 @@
+#!/bin/bash
+
+# 1. Pendiente de documentacion de que hace cada paquete instalado o para que es 
+
+#=======================================================================================#
+
+sudo apt update && sudo apt upgrade && sudo apt install nala                                                            #  Actualizacion inicial 
+sudo nala fetch --auto -y                                                                                               # Examina los servidores espejo y setea los 3 primeros por defecto. 
+sudo nala install xorg i3 i3lock i3status i3lock-fancy rofi lxpolkit -y 
+
+sudo apt install linux-headers-amd64 -y 
+setxkbmap 'us(intl)'                                                                                                    # Esto setea el teclado en Ingles Internacional con teclas muerta (AltGR)
+
+sudo nala install wget curl ufw font-manager zsh htop preload kitty dunst rofi lxappearance suckless-tools xrandr -y && # Instala Paquetes basicos.
+
+sudo apt install feh lxappearance compton numlockx pulseaudio-utils pavucontrol arc-theme papirus-icon-theme blueman -y # sacado de https://geekland.eu/instalar-configurar-y-usar-el-gestor-de-ventanas-i3-en-linux/
+
+sudo apt install ntfs-3g                                                                                                #autenticacion para discons ntfs
+
+
+
+
+#=======================================================================================#
+
+# GESTION DE AUDIO Y SONIDO 
+
+sudo apt install pipewire-alsa pipewire-jack pipewire-audio wireplumber pipewire-pulse libspa-0.2-bluetooth -y 
+
+#=======================================================================================#
+
+# Configuraciones basicas de seguridad.
+echo "================== Firewall configuration =================="
+
+sudo ufw enable                                                                            # Habilitar UFW para gestionar el firewall
+sudo ufw default deny incoming                                                             # Configurar el firewall para denegar todas las conexiones entrantes por defecto
+sudo ufw default allow outgoing                                                            # Configurar el firewall para permitir todas las conexiones salientes por defecto
+
+#=======================================================================================#
+
+echo "================== Anti-Virus configuration =================="
+
+sudo nala install clamav -y && sudo nala install clamav-daemon -y
+sudo systemctl stop clamav-freshclam                                                       # Detener el servicio de actualización de ClamAV
+sudo freshclam                                                                             # Actualizar la base de datos de firmas de virus de ClamAV
+sudo systemctl start clamav-freshclam                                                      # Iniciar de nuevo el servicio de actualización de ClamAV
+sudo systemctl start clamav-daemon                                                         # Habilitar y iniciar el servicio de ClamAV
+#=======================================================================================#
+
+echo "Basic configuration done"
+
+# ver documentacion nvidia driver  // https://wiki.debian.org/NvidiaGraphicsDrivers 
+
+
+#=======================================================================================#

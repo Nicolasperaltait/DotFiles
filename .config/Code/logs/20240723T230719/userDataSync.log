@@ -1,0 +1,177 @@
+2024-07-23 23:07:21.490 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-07-23 23:07:21.490 [info] Auto Sync is enabled.
+2024-07-23 23:07:21.490 [info] Auto Sync: Suspended until auth token is available.
+2024-07-23 23:07:21.671 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/extensions
+2024-07-23 23:07:21.689 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/globalState
+2024-07-23 23:07:21.700 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/keybindings
+2024-07-23 23:07:21.708 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/profiles
+2024-07-23 23:07:21.720 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/settings
+2024-07-23 23:07:21.723 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/snippets
+2024-07-23 23:07:21.729 [info] Deleting non existing profile from backup /home/nicolas/.config/Code/User/sync/tasks
+2024-07-23 23:07:23.979 [info] Auto Sync: Triggered by Interval
+2024-07-23 23:07:23.979 [info] Sync started.
+2024-07-23 23:07:24.833 [info] Settings: Last sync resource does not exist locally.
+2024-07-23 23:07:25.076 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:07:25.080 [info] Keybindings: Last sync resource does not exist locally.
+2024-07-23 23:07:25.267 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:07:25.268 [info] Snippets: Last sync resource does not exist locally.
+2024-07-23 23:07:25.447 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:07:25.448 [info] Tasks: Last sync resource does not exist locally.
+2024-07-23 23:07:25.628 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:07:25.630 [info] GlobalState: Last sync resource does not exist locally.
+2024-07-23 23:07:26.141 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:07:26.148 [info] Extensions: Last sync resource does not exist locally.
+2024-07-23 23:07:26.393 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:07:26.397 [info] Profiles: Last sync resource does not exist locally.
+2024-07-23 23:07:26.580 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:07:26.583 [info] Sync done. Took 2604ms
+2024-07-23 23:08:30.174 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:08:30.175 [info] Sync started.
+2024-07-23 23:08:30.375 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:08:30.383 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:08:30.387 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:08:30.390 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:08:30.571 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:08:30.637 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:08:30.639 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:08:30.641 [info] Sync done. Took 466ms
+2024-07-23 23:13:12.809 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:13:12.809 [info] Sync started.
+2024-07-23 23:13:13.653 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:13:13.659 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:13:13.662 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:13:13.664 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:13:13.836 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:13:13.864 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:13:13.865 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:13:13.867 [info] Sync done. Took 1058ms
+2024-07-23 23:13:32.780 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:13:32.780 [info] Sync started.
+2024-07-23 23:13:32.955 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:13:32.959 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:13:32.963 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:13:32.967 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:13:33.131 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:13:33.176 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:13:33.177 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:13:33.179 [info] Sync done. Took 399ms
+2024-07-23 23:14:02.227 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:14:02.227 [info] Sync started.
+2024-07-23 23:14:02.406 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:14:02.411 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:14:02.414 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:14:02.416 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:14:02.595 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:14:02.632 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:14:02.633 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:14:02.635 [info] Sync done. Took 408ms
+2024-07-23 23:19:02.674 [info] Auto Sync: Triggered by Interval
+2024-07-23 23:19:02.675 [info] Sync started.
+2024-07-23 23:19:03.398 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:19:03.402 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:19:03.406 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:19:03.409 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:19:03.579 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:19:03.622 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:19:03.624 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:19:03.625 [info] Sync done. Took 951ms
+2024-07-23 23:19:36.423 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:19:36.424 [info] Sync started.
+2024-07-23 23:19:36.603 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:19:36.605 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:19:36.607 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:19:36.609 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:19:36.780 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:19:36.809 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:19:36.810 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:19:36.811 [info] Sync done. Took 387ms
+2024-07-23 23:20:54.478 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:20:54.478 [info] Sync started.
+2024-07-23 23:20:54.679 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:20:54.682 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:20:54.684 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:20:54.687 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:20:54.862 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:20:54.904 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:20:54.905 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:20:54.908 [info] Sync done. Took 430ms
+2024-07-23 23:22:01.749 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:22:01.749 [info] Sync started.
+2024-07-23 23:22:01.925 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:22:01.927 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:22:01.931 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:22:01.934 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:22:02.888 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:22:02.936 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:22:02.938 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:22:02.941 [info] Sync done. Took 1192ms
+2024-07-23 23:22:20.461 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:22:20.462 [info] Sync started.
+2024-07-23 23:22:20.641 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:22:20.647 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:22:20.652 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:22:20.656 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:22:20.835 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:22:20.890 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:22:20.892 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:22:20.893 [info] Sync done. Took 432ms
+2024-07-23 23:22:35.522 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:22:35.522 [info] Sync started.
+2024-07-23 23:22:35.732 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:22:35.735 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:22:35.737 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:22:35.744 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:22:35.922 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:22:35.961 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:22:35.964 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:22:35.965 [info] Sync done. Took 442ms
+2024-07-23 23:23:30.787 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:23:30.788 [info] Sync started.
+2024-07-23 23:23:30.962 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:23:30.965 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:23:30.967 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:23:30.972 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:23:31.148 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:23:31.178 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:23:31.179 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:23:31.180 [info] Sync done. Took 393ms
+2024-07-23 23:25:24.186 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:25:24.186 [info] Sync started.
+2024-07-23 23:25:24.741 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:25:24.745 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:25:24.748 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:25:24.750 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:25:24.928 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:25:24.960 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:25:24.961 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:25:24.962 [info] Sync done. Took 776ms
+2024-07-23 23:25:38.806 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:25:38.807 [info] Sync started.
+2024-07-23 23:25:38.987 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:25:38.992 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:25:38.994 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:25:38.996 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:25:39.167 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:25:39.204 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:25:39.205 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:25:39.207 [info] Sync done. Took 401ms
+2024-07-23 23:27:32.161 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:27:32.161 [info] Sync started.
+2024-07-23 23:27:32.332 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:27:32.335 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:27:32.337 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:27:32.339 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:27:32.512 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:27:32.561 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:27:32.566 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:27:32.569 [info] Sync done. Took 407ms
+2024-07-23 23:29:03.209 [info] Auto Sync: Triggered by Activity
+2024-07-23 23:29:03.209 [info] Sync started.
+2024-07-23 23:29:03.399 [info] Settings: No changes found during synchronizing settings.
+2024-07-23 23:29:03.403 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-07-23 23:29:03.406 [info] Snippets: No changes found during synchronizing snippets.
+2024-07-23 23:29:03.409 [info] Tasks: No changes found during synchronizing tasks.
+2024-07-23 23:29:03.584 [info] GlobalState: No changes found during synchronizing ui state.
+2024-07-23 23:29:03.616 [info] Extensions: No changes found during synchronizing extensions.
+2024-07-23 23:29:03.617 [info] Profiles: No changes found during synchronizing profiles.
+2024-07-23 23:29:03.618 [info] Sync done. Took 410ms

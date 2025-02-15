@@ -1,0 +1,1 @@
+clockifyButton.render(".zc-taskInformation:not(.clockify)",{observe:!0},(function(t){const o=$(".zc-popupTaskTitle").innerText,e=$(".zc-taskProjectInfo").innerText,n=clockifyButton.createButton({description:o,projectName:e,small:!1});n.style.paddingBottom="25px",t.prepend(n)}));

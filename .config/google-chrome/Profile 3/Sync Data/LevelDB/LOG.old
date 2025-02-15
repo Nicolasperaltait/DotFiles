@@ -1,0 +1,12 @@
+2024/07/13-12:56:40.731 fdd79 Reusing MANIFEST /home/nicolas/.config/google-chrome/Profile 3/Sync Data/LevelDB/MANIFEST-000001
+2024/07/13-12:56:40.732 fdd79 Recovering log #14
+2024/07/13-12:56:40.736 fdd79 Reusing old log /home/nicolas/.config/google-chrome/Profile 3/Sync Data/LevelDB/000014.log 
+2024/07/13-13:46:22.159 fddcb Level-0 table #19: started
+2024/07/13-13:46:22.169 fddcb Level-0 table #19: 97514 bytes OK
+2024/07/13-13:46:22.173 fddcb Delete type=0 #14
+2024/07/13-13:55:27.750 fdd78 Level-0 table #21: started
+2024/07/13-13:55:27.752 fdd78 Level-0 table #21: 115826 bytes OK
+2024/07/13-13:55:27.754 fdd78 Delete type=0 #18
+2024/07/13-14:10:40.169 fdd78 Level-0 table #23: started
+2024/07/13-14:10:40.182 fdd78 Level-0 table #23: 90512 bytes OK
+2024/07/13-14:10:40.186 fdd78 Delete type=0 #20

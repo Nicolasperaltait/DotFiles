@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "configVersion": "1.0.0",
+    "exodusVersionCreated": "24.27.3",
+    "exodusVersionUpdated": "24.27.3",
+    "createdAt": "Mon Jul 01 2024 20:16:10 GMT-0300 (hora estándar de Argentina)",
+    "updatedAt": "Mon Jul 01 2024 22:19:36 GMT-0300 (hora estándar de Argentina)"
+  },
+  "data": {
+    "fiat": {
+      "unit": "ARS"
+    },
+    "theme": {
+      "name": "origin"
+    },
+    "notifications": {
+      "tx": {
+        "received": {
+          "enabled": true
+        }
+      }
+    },
+    "portfolio": {
+      "sort": {
+        "order": "balance",
+        "direction": "normal"
+      },
+      "filter": {
+        "with-balance": false,
+        "only-favorite": false
+      }
+    },
+    "lockDuration": 300000,
+    "hardware": {
+      "listenForNewDevices": true,
+      "rememberDevices": true,
+      "hiddenWalletAccounts": {}
+    },
+    "moneroCustomNodeUrl": null,
+    "moneroCursor": 3181458,
+    "moneroSubaddressesEnabled": false,
+    "moneroAutoSyncEnabled": null,
+    "moneroHasSyncRequest": false,
+    "adaLegacyAddressEnabled": false,
+    "bitcoinLegacyAddressEnabled": false,
+    "bitcoinTaprootAddressEnabled": false,
+    "sounds": {
+      "all": {
+        "enabled": true,
+        "volume": 1
+      }
+    },
+    "dapps": {
+      "installedDapps": {
+        "compoundFinance": false,
+        "earnRewards": true
+      }
+    },
+    "favorite-assets": {
+      "tfuel": true,
+      "mcd": true,
+      "dai_matic_845af41b": true,
+      "dai_bsc_709f85b7": true,
+      "dai_optimism_6343ae93": true,
+      "bitcoin": true,
+      "ethereum": true,
+      "eth_bsc_f1d2a904": true,
+      "optimism": true,
+      "ethereumarbnova": true,
+      "ethereumarbone": true,
+      "aurora": true,
+      "basemainnet": true,
+      "bnbmainnet": true,
+      "bsc": true,
+      "solana": true
+    },
+    "earnRewards": {
+      "dashboardView": "grid"
+    },
+    "settings": {
+      "assets": {
+        "sort": {
+          "order": "name",
+          "direction": "normal"
+        }
+      }
+    },
+    "wallet": {
+      "navigation-settings": {
+        "sort": "balance",
+        "filters": [
+          "favorite"
+        ]
+      },
+      "layout": "v2",
+      "showAdvanced": false,
+      "showNav": true
+    },
+    "marketHistory": {
+      "bumpVersion": "v1"
+    },
+    "advanced": {
+      "advancedMode": {
+        "assets": {
+          "bitcoin": false
+        }
+      }
+    },
+    "zoomFactor": 1,
+    "nfts": {
+      "hasStored": false
+    },
+    "telemetry": {
+      "optInPreference": false
+    },
+    "fiatOnramp": {
+      "wentThroughFiatOnboarding": "Wed, 06 Jul 2022 23:45:17 GMT"
+    },
+    "lastSavedExchangePair": {
+      "fromCoin": "tfuel",
+      "toCoin": "avalanchec",
+      "fromWalletAccount": "exodus_0",
+      "toWalletAccount": "exodus_0"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+clockifyButton.render("#clockify-view:not(.clockify)",{observe:!0},(t=>{var e=$("#clokify-container",t);if(e){var o=$("#task-name");o=o?o.value:"";var a=$("#board-title");a=a?a.textContent:"";var c=clockifyButton.createButton({description:o,projectName:a,taskName:o});e.appendChild(c)}}));

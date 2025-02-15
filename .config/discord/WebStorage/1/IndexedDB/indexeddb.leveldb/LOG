@@ -1,0 +1,13 @@
+2024/07/19-16:10:07.213 11a42c Reusing MANIFEST /home/nicolas/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/19-16:10:07.213 11a42c Recovering log #7
+2024/07/19-16:10:07.214 11a42c Reusing old log /home/nicolas/.config/discord/WebStorage/1/IndexedDB/indexeddb.leveldb/000007.log 
+2024/07/19-16:10:07.272 11a42c Level-0 table #11: started
+2024/07/19-16:10:07.273 11a42c Level-0 table #11: 712 bytes OK
+2024/07/19-16:10:07.275 11a42c Delete type=0 #7
+2024/07/19-16:10:07.275 11a42c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 150 : 1
+2024/07/19-16:10:07.276 11a42c Compacting 1@0 + 1@1 files
+2024/07/19-16:10:07.277 11a42c Generated table #12@0: 68 keys, 1381 bytes
+2024/07/19-16:10:07.277 11a42c Compacted 1@0 + 1@1 files => 1381 bytes
+2024/07/19-16:10:07.278 11a42c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/19-16:10:07.278 11a42c Delete type=2 #11
+2024/07/19-16:10:07.279 11a42c Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 150 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

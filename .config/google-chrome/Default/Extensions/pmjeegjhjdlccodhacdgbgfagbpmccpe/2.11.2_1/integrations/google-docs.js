@@ -1,0 +1,1 @@
+setTimeout((()=>{clockifyButton.render(".docs-titlebar-buttons:not(.clockify)",{observe:!0},(async t=>{if($(".clockifyButton",t))return;const e={description:text(".docs-title-input-label-inner")},n=clockifyButton.createButton(e),o=clockifyButton.createInput(e);o.style.marginRight="15px",t.prepend(n),t.prepend(o)}))}),1e3);

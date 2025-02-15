@@ -1,0 +1,12 @@
+[ActivityManager]
+_k_friendly_name=Gestor de actividades
+switch-to-activity-9433bb64-f164-40ca-87d7-707895d7cf56=none,none,Cambiar a la actividad «Por omisión»
+
+[systemsettings.desktop]
+_k_friendly_name=Preferencias del sistema
+_launch=Tools,Tools,Preferencias del sistema
+kcm-kscreen=none,none,Configuración de la pantalla
+kcm-lookandfeel=none,none,Tema global
+kcm-users=none,none,Usuarios
+powerdevilprofilesconfig=none,none,Ahorro de energía
+screenlocker=none,none,Bloqueo de pantalla

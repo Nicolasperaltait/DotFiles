@@ -1,0 +1,1 @@
+clockifyButton.render(".item-sidebar .mobile-item-navigation:not(.clockify)",{observe:!0},(function(t){setTimeout((function(){let e=$(".item-sidebar .item-name"),i=clockifyButton.createButton(e.textContent.trim());i.style.paddingTop="0",i.style.paddingBottom="0",i.style.cursor="pointer",t.appendChild(i)}),300)}));

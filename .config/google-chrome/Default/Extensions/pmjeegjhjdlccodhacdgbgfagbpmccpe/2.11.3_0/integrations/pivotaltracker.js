@@ -1,0 +1,1 @@
+clockifyButton.render("form.story:not(.clockify)",{observe:!0},(t=>{var e,l=$("textarea",t),n=$(".id.text_value",t),o=$(".edit aside",t);$("title").textContent,null!==l&&null!==o&&((e=clockifyButton.createButton(n.value+" "+l.value)).style.marginLeft="10px",o.appendChild(e))}));

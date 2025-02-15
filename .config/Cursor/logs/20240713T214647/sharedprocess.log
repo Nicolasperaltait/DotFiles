@@ -1,0 +1,15 @@
+2024-07-13 21:46:56.815 [info] Getting Manifest... nilssoderman.batch-runner
+2024-07-13 21:46:57.000 [info] Installing extension: nilssoderman.batch-runner
+2024-07-13 21:46:57.215 [info] Started downloading extension: nilssoderman.batch-runner 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-nilssoderman.batch-runner-1.3.1
+2024-07-13 21:46:57.216 [info] Downloading extension to temp location: nilssoderman.batch-runner 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.401a9e16-4dc7-445f-b839-0c7967183777
+2024-07-13 21:46:57.748 [info] Started downloading extension: nilssoderman.batch-runner 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/nilssoderman.batch-runner-1.3.1.sigzip
+2024-07-13 21:46:57.748 [info] Downloading extension to temp location: nilssoderman.batch-runner 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.dbc512a8-2038-4e25-bd10-846f8eff8885
+2024-07-13 21:46:57.784 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursor5Bj6GS/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursor5Bj6GS/resources/app/out/bootstrap-fork.js
+2024-07-13 21:46:57.785 [info] Extension signature verification is not done: nilssoderman.batch-runner
+2024-07-13 21:46:57.825 [info] Extracted extension to file:///home/nicolas/.cursor/extensions/nilssoderman.batch-runner-1.3.1: nilssoderman.batch-runner
+2024-07-13 21:46:57.828 [info] Renamed to /home/nicolas/.cursor/extensions/nilssoderman.batch-runner-1.3.1
+2024-07-13 21:46:57.830 [info] Extracting extension completed. nilssoderman.batch-runner
+2024-07-13 21:46:57.850 [info] Extension installed successfully: nilssoderman.batch-runner

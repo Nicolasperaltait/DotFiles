@@ -1,0 +1,8 @@
+2024-06-18 10:58:56.559 [warning] Creation of workbench contribution 'workbench.contrib.onboarding.onStart.cursor' took 33ms.
+2024-06-18 10:58:56.821 [info] Started local extension host with pid 278152.
+2024-06-18 10:59:00.640 [error] [unauthenticated] User provided no bearer token: ConnectError: [unauthenticated] User provided no bearer token
+    at Object.B [as unary] (vscode-file://vscode-app/tmp/.mount_cursorPrjAPi/resources/app/out/vs/workbench/workbench.desktop.main.js:22684:11000)
+    at async Object.availableModels (vscode-file://vscode-app/tmp/.mount_cursorPrjAPi/resources/app/out/vs/workbench/workbench.desktop.main.js:266:114034)
+    at async rt.keepCppModelStateUpdated (vscode-file://vscode-app/tmp/.mount_cursorPrjAPi/resources/app/out/vs/workbench/workbench.desktop.main.js:23249:10409)
+    at async rt.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/tmp/.mount_cursorPrjAPi/resources/app/out/vs/workbench/workbench.desktop.main.js:23260:16105)
+2024-06-18 10:59:00.642 [info] [perf] Render performance baseline is 37ms

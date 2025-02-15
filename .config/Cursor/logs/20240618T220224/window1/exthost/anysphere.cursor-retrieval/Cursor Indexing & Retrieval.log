@@ -1,0 +1,74 @@
+2024-06-18 22:02:29.943 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-06-18 22:02:29.943 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)
+2024-06-18 22:02:30.036 [info] Creating merkle client.
+2024-06-18 22:02:30.036 [info] Done creating merkle client.
+2024-06-18 22:02:30.036 [info] Doing a startup handshake.
+2024-06-18 22:02:30.091 [info] Finished initializing merkle tree in 56.17030999995768 ms.
+2024-06-18 22:02:30.243 [info] Doing the initial handshake with hash: d21b43a84a62106a8fab0b3648855de04bf92b2c0f28ed432578ca92eccb720d
+2024-06-18 22:02:30.286 [info] Handshake start
+2024-06-18 22:02:31.031 [info] Handshake timing: 750.3048849999905
+2024-06-18 22:02:31.032 [info] Handshake result:
+2024-06-18 22:02:31.032 [info] Starting fast remote sync.
+2024-06-18 22:02:31.033 [info] Total num embeddable files: 11
+2024-06-18 22:02:31.034 [info] Root hash: d21b43a84a62106a8fab0b3648855de04bf92b2c0f28ed432578ca92eccb720d
+2024-06-18 22:02:31.034 [info] Finished indexing repository.
+2024-06-18 22:02:31.034 [info] Indexing job successfully done or aborted.
+2024-06-18 22:12:30.035 [info] Creating merkle client.
+2024-06-18 22:12:30.035 [info] Done creating merkle client.
+2024-06-18 22:12:30.035 [info] Doing a startup handshake.
+2024-06-18 22:12:30.037 [info] Finished initializing merkle tree in 1.9667720003053546 ms.
+2024-06-18 22:12:30.037 [info] Doing the initial handshake with hash: d21b43a84a62106a8fab0b3648855de04bf92b2c0f28ed432578ca92eccb720d
+2024-06-18 22:12:30.041 [info] Handshake start
+2024-06-18 22:12:30.728 [info] Handshake timing: 690.1161870006472
+2024-06-18 22:12:30.728 [info] Handshake result:
+2024-06-18 22:12:30.728 [info] Starting fast remote sync.
+2024-06-18 22:12:30.729 [info] Total num embeddable files: 11
+2024-06-18 22:12:30.729 [info] Root hash: d21b43a84a62106a8fab0b3648855de04bf92b2c0f28ed432578ca92eccb720d
+2024-06-18 22:12:30.729 [info] Finished indexing repository.
+2024-06-18 22:12:30.729 [info] Indexing job successfully done or aborted.
+2024-06-18 22:15:09.474 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-06-18 22:15:09.474 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:517:28)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)
+2024-06-18 22:15:09.620 [info] Creating merkle client.
+2024-06-18 22:15:09.620 [info] Done creating merkle client.
+2024-06-18 22:15:09.620 [info] Doing a startup handshake.
+2024-06-18 22:15:09.632 [info] Finished initializing merkle tree in 11.549922000616789 ms.
+2024-06-18 22:15:09.678 [info] Doing the initial handshake with hash: d21b43a84a62106a8fab0b3648855de04bf92b2c0f28ed432578ca92eccb720d
+2024-06-18 22:15:09.682 [info] Handshake start
+2024-06-18 22:15:10.372 [info] Handshake timing: 693.6104579996318
+2024-06-18 22:15:10.373 [info] Handshake result:
+2024-06-18 22:15:10.373 [info] Starting fast remote sync.
+2024-06-18 22:15:10.375 [info] Total num embeddable files: 11
+2024-06-18 22:15:10.376 [info] Root hash: d21b43a84a62106a8fab0b3648855de04bf92b2c0f28ed432578ca92eccb720d
+2024-06-18 22:15:10.377 [info] Finished indexing repository.
+2024-06-18 22:15:10.377 [info] Indexing job successfully done or aborted.
+2024-06-18 22:17:00.617 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-06-18 22:17:00.723 [info] Creating merkle client.
+2024-06-18 22:17:00.723 [info] Done creating merkle client.
+2024-06-18 22:17:00.723 [info] Doing a startup handshake.
+2024-06-18 22:17:00.856 [info] Finished initializing merkle tree in 133.02112300042063 ms.
+2024-06-18 22:17:01.014 [info] Doing the initial handshake with hash: 435a68d95bee8ea72e9bdead073eb05df5af5dadb127e0aa671d8fc6abcd7cb5
+2024-06-18 22:17:01.056 [info] Handshake start
+2024-06-18 22:17:01.094 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/nicolas/.config/Cursor/User/workspaceStorage/b11e60db37e03a6aec06eb0fbf6c0b1a/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2024-06-18 22:17:02.124 [info] Handshake timing: 1072.8138689994812
+2024-06-18 22:17:02.125 [info] Handshake result:
+2024-06-18 22:17:02.125 [info] Starting fast remote sync.
+2024-06-18 22:17:02.126 [info] Total num embeddable files: 7
+2024-06-18 22:17:02.126 [info] Root hash: 435a68d95bee8ea72e9bdead073eb05df5af5dadb127e0aa671d8fc6abcd7cb5
+2024-06-18 22:17:02.126 [info] Starting repository upload from scratch.
+2024-06-18 22:17:02.128 [info] Uploading 7 files.
+2024-06-18 22:17:07.818 [info] Finished indexing repository.
+2024-06-18 22:17:07.818 [info] Indexing job successfully done or aborted.

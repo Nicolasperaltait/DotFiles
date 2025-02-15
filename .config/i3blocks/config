@@ -1,0 +1,54 @@
+# i3blocks config file
+# List of valid properties:
+#
+# 	align
+# 	color
+# 	command
+# 	full_text
+# 	instance
+# 	interval
+# 	label
+# 	min_width
+# 	name
+# 	separator
+# 	separator_block_width
+# 	short_text
+# 	signal
+# 	urgent
+
+#==============================================================================================#
+# Global properties
+#
+# The top properties below are applied to every block, but can be overridden.
+# Each block command defaults to the script name to avoid boilerplate.
+# Change $SCRIPT_DIR to the location of your scripts!
+command=$SCRIPT_DIR/$BLOCK_NAME
+separator_block_width=14
+markup=pango
+
+#=============================================================================================#
+[keyindicator]
+command=$SCRIPT_DIR/keyindicator/keyindicator
+markup=pango
+interval=once
+signal=11
+#=============================================================================================#
+#Es necesario tener //  sudo apt install alsa-utils
+[volume-pipewire]
+command=$SCRIPT_DIR/volume-pipewire/volume-pipewire
+interval=1
+signal=1
+#=============================================================================================#
+# Calendario Fecha y hora
+[time]
+command=date '+%d-%m-%Y %H:%M hs ' 
+interval=1
+color=#7788B0
+markup=pango
+#=============================================================================================#
+[shutdown_menu]
+full_text= ⏻
+min_width=25 
+command=$SCRIPT_DIR/shutdown_menu/shutdown_menu
+markup=pango
+#==============================================================================================#

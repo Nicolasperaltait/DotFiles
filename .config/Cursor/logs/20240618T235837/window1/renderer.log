@@ -1,0 +1,20 @@
+2024-06-18 23:58:39.635 [info] Started local extension host with pid 187102.
+2024-06-18 23:58:39.784 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at j.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:21456:6690)
+2024-06-18 23:58:43.369 [info] [perf] Render performance baseline is 35ms
+2024-06-18 23:58:51.942 [error] Error while registering log channel file:///home/nicolas/.config/Cursor/logs/20240618T235837/window1/exthost/anysphere.cursor-retrieval/Cursor%20extension%20logs.log Timed out while waiting for file to be created
+2024-06-18 23:59:33.218 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-06-18 23:59:33.424 [info] Importing Profile (cursorjunio24): Started installing extensions.
+2024-06-18 23:59:37.104 [info] Importing Profile (cursorjunio24): Finished installing extensions.
+2024-06-18 23:59:37.147 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at c (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:1182:21189)
+    at ye (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:23222:82061)
+    at l.value (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:23222:82365)
+    at o.y (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:454:659)
+    at o.z (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:454:729)
+    at o.fire (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:454:945)
+    at f.updateCurrentProfile (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:21847:43662)
+    at c.w (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:21847:37125)
+    at async c.switchProfile (vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:21847:36314)
+    at async vscode-file://vscode-app/tmp/.mount_cursortuXjvh/resources/app/out/vs/workbench/workbench.desktop.main.js:22178:32219
+2024-06-18 23:59:37.546 [info] Started local extension host with pid 189183.

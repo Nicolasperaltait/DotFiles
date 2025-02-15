@@ -1,0 +1,26 @@
+2024/07/23-13:48:20.118 384eef Reusing MANIFEST /home/nicolas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/23-13:48:20.119 384eef Recovering log #328
+2024/07/23-13:48:20.119 384eef Reusing old log /home/nicolas/.config/discord/Local Storage/leveldb/000328.log 
+2024/07/23-13:51:08.315 384ef1 Level-0 table #332: started
+2024/07/23-13:51:08.328 384ef1 Level-0 table #332: 788741 bytes OK
+2024/07/23-13:51:08.330 384ef1 Delete type=0 #328
+2024/07/23-14:02:58.442 384eef Level-0 table #334: started
+2024/07/23-14:02:58.465 384eef Level-0 table #334: 2390206 bytes OK
+2024/07/23-14:02:58.467 384eef Delete type=0 #331
+2024/07/23-14:14:42.045 384ef1 Level-0 table #336: started
+2024/07/23-14:14:42.054 384ef1 Level-0 table #336: 17330 bytes OK
+2024/07/23-14:14:42.055 384ef1 Delete type=0 #333
+2024/07/23-14:14:42.055 384ef1 Compacting 4@0 + 2@1 files
+2024/07/23-14:14:42.072 384ef1 Generated table #337@0: 20 keys, 2388115 bytes
+2024/07/23-14:14:42.090 384ef1 Generated table #338@0: 112 keys, 803803 bytes
+2024/07/23-14:14:42.090 384ef1 Compacted 4@0 + 2@1 files => 3191918 bytes
+2024/07/23-14:14:42.092 384ef1 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/07/23-14:14:42.092 384ef1 Delete type=2 #332
+2024/07/23-14:14:42.092 384ef1 Delete type=2 #334
+2024/07/23-14:14:42.092 384ef1 Delete type=2 #327
+2024/07/23-14:14:42.092 384ef1 Delete type=2 #329
+2024/07/23-14:14:42.092 384ef1 Delete type=2 #336
+2024/07/23-14:14:42.092 384ef1 Delete type=2 #326
+2024/07/23-14:50:26.206 384ef1 Level-0 table #340: started
+2024/07/23-14:50:26.214 384ef1 Level-0 table #340: 13530 bytes OK
+2024/07/23-14:50:26.216 384ef1 Delete type=0 #335

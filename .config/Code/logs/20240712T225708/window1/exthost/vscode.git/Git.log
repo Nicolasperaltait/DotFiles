@@ -1,0 +1,28 @@
+2024-07-12 22:57:12.203 [info] Log level: Info
+2024-07-12 22:57:12.203 [info] Validating found git in: "git"
+2024-07-12 22:57:12.203 [info] Using git "2.39.2" from "git"
+2024-07-12 22:57:12.203 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-12 22:57:12.214 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-07-12 22:57:12.237 [info] Open repository: /media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3
+2024-07-12 22:57:12.262 [info] > git rev-parse --show-toplevel [7ms]
+2024-07-12 22:57:12.266 [info] > git config --get commit.template [15ms]
+2024-07-12 22:57:12.396 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [116ms]
+2024-07-12 22:57:12.433 [info] > git rev-parse --show-toplevel [163ms]
+2024-07-12 22:57:12.545 [info] > git status -z -uall [113ms]
+2024-07-12 22:57:12.606 [info] > git config --get commit.template [12ms]
+2024-07-12 22:57:12.647 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [10ms]
+2024-07-12 22:57:12.712 [info] > git status -z -uall [40ms]
+2024-07-12 22:57:13.021 [info] > git check-ignore -v -z --stdin [8ms]
+2024-07-12 22:57:13.142 [info] > git fetch [905ms]
+2024-07-12 22:57:13.181 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [27ms]
+2024-07-12 22:57:13.182 [info] > git config --get commit.template [34ms]
+2024-07-12 22:57:13.194 [info] > git status -z -uall [8ms]
+2024-07-12 22:57:13.397 [info] > git ls-files --stage -- /media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/00-Genesis.sh [15ms]
+2024-07-12 22:57:13.420 [info] > git show --textconv :00-Genesis.sh [50ms]
+2024-07-12 22:57:13.431 [info] > git cat-file -s 99237fd8107edecbb25160baa1286e2b3c60ef02 [23ms]
+2024-07-12 22:57:14.268 [info] > git config --get commit.template [5ms]
+2024-07-12 22:57:14.270 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-07-12 22:57:14.283 [info] > git status -z -uall [9ms]
+2024-07-12 22:57:14.509 [info] > git ls-files --stage -- /media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/00-Genesis.sh [22ms]
+2024-07-12 22:57:14.527 [info] > git cat-file -s 99237fd8107edecbb25160baa1286e2b3c60ef02 [14ms]
+2024-07-12 22:57:14.539 [info] > git show --textconv :00-Genesis.sh [5ms]

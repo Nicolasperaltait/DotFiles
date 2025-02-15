@@ -1,0 +1,18 @@
+2024-07-11 23:20:45.397 [info] Starting Python Locator /home/nicolas/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python-env-tools/bin/pet server
+2024-07-11 23:20:45.397 [info] Started Refreshing Environments
+2024-07-11 23:20:45.417 [info] Discovered env: /usr/bin/python3
+2024-07-11 23:20:45.747 [info] Discovered env: /bin/python3
+2024-07-11 23:20:45.781 [info] Locator Conda took 48.509862ms
+2024-07-11 23:20:45.781 [info] Locator Homebrew took 93.126µs
+2024-07-11 23:20:45.822 [info] Locator LinuxGlobalPython took 119.77571ms
+2024-07-11 23:20:45.826 [info] Locator PipEnv took 25.275µs
+2024-07-11 23:20:45.828 [info] Locator Poetry took 29.819µs
+2024-07-11 23:20:45.828 [info] Locator PyEnv took 441.486µs
+2024-07-11 23:20:45.828 [info] Locator Venv took 461ns
+2024-07-11 23:20:45.832 [info] Locator VirtualEnv took 325ns
+2024-07-11 23:20:45.832 [info] Locator VirtualEnvWrapper took 561ns
+2024-07-11 23:20:45.832 [info] Environments found using locators in 128.910084ms
+2024-07-11 23:20:45.833 [info] Environments in PATH found in 236.591125ms
+2024-07-11 23:20:45.833 [info] Environments in global virtual env paths found in 32.615µs
+2024-07-11 23:20:45.834 [info] Environments in custom search paths found in 0ns
+2024-07-11 23:20:45.835 [info] Refresh completed in 240ms

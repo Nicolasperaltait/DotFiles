@@ -1,0 +1,184 @@
+{
+   "checksum": "59b31db350e3133bdb16cd28a2090861",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13302143974630342",
+            "date_last_used": "13365368948797980",
+            "guid": "c0a2652f-f6fa-47ec-bd6d-18db92dff300",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://www.mercadolibre.com.ar/"
+         }, {
+            "date_added": "13242607890305807",
+            "date_last_used": "13351383354425030",
+            "guid": "82ccff44-445f-4250-b114-48ba9ea4473b",
+            "id": "6",
+            "name": "",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13223244106384997",
+            "date_last_used": "13328607483687168",
+            "guid": "a51a1251-a4af-4693-b557-dcd64ad06749",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://www.facebook.com/campaign/landing.php?&campaign_id=1662524771&extra_1=s%7Cc%7C320628650080%7Ce%7Cfacebook%7C&placement=&creative=320628650080&keyword=facebook&partner_id=googlesem&extra_2=campaignid%3D1662524771%26adgroupid%3D67039035794%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D1t1%26target%3D%26targetid%3Dkwd-541132862%26loc_physical_ms%3D1000035%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=EAIaIQobChMI9PHghKL85gIVgg6RCh1e-gcMEAAYASAAEgJPtvD_BwE"
+         }, {
+            "date_added": "13223244206253798",
+            "date_last_used": "0",
+            "guid": "6b7005f9-7faf-4426-8be7-9de090ed686e",
+            "id": "8",
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/?gl=AR&hl=es-419"
+         }, {
+            "date_added": "13343674710267709",
+            "date_last_used": "0",
+            "guid": "6f18460a-6875-457c-a194-19cd3607916c",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://separator.mayastudios.com/index.php"
+         }, {
+            "date_added": "13223243933870637",
+            "date_last_used": "13365368344928984",
+            "guid": "261cbd52-d95d-4860-8d64-f3b8bd98b2b6",
+            "id": "10",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://www.google.com/intl/es/gmail/about/#"
+         }, {
+            "children": [ {
+               "date_added": "13365368241805546",
+               "date_last_used": "13365368952525839",
+               "guid": "34a36850-d179-4623-81f8-21c7c57ba16d",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Inicio",
+               "type": "url",
+               "url": "https://www.mercadopago.com.ar/home"
+            } ],
+            "date_added": "13365367610921782",
+            "date_last_used": "0",
+            "date_modified": "13365368248156685",
+            "guid": "ec043d6d-3954-4310-bc74-f22f1affa76e",
+            "id": "21",
+            "name": "Seguridad",
+            "type": "folder"
+         }, {
+            "date_added": "13343674713841940",
+            "date_last_used": "0",
+            "guid": "f0c0709f-454a-40c4-a46e-75212638385d",
+            "id": "11",
+            "name": "",
+            "type": "url",
+            "url": "https://separator.mayastudios.com/index.php"
+         }, {
+            "date_added": "13244079133530986",
+            "date_last_used": "0",
+            "guid": "2ef3e655-d7e1-4304-9080-a381805c56cc",
+            "id": "12",
+            "name": "Mi Negocio | Argentina | Natura",
+            "type": "url",
+            "url": "https://minegocio.naturacosmeticos.com.ar/home"
+         }, {
+            "children": [ {
+               "date_added": "13245927003632023",
+               "date_last_used": "0",
+               "guid": "4597a29b-b0f0-493b-bc64-92050ce538de",
+               "id": "14",
+               "name": "Telecentro ",
+               "type": "url",
+               "url": "https://telecentro.com.ar/sucursal-virtual"
+            }, {
+               "date_added": "13343674854462478",
+               "date_last_used": "13355770423066552",
+               "guid": "ddc45609-823f-4818-8cda-442bf2e61c91",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Naturgy",
+               "type": "url",
+               "url": "https://www.naturgy.com.ar/"
+            }, {
+               "date_added": "13271613485555273",
+               "date_last_used": "0",
+               "guid": "16643a99-3540-4350-bb8d-a4f210970471",
+               "id": "16",
+               "name": "Cencosud",
+               "type": "url",
+               "url": "https://clientes.tarjetacencosud.com.ar/ords/f?p=128:1:14168948189445:::::"
+            } ],
+            "date_added": "13269228910133600",
+            "date_last_used": "0",
+            "date_modified": "13343674854462478",
+            "guid": "52f05c86-adb6-49ae-849c-5a3be4be646f",
+            "id": "13",
+            "name": "SERVICIOS",
+            "type": "folder"
+         }, {
+            "date_added": "13343674809678084",
+            "date_last_used": "13365367621011618",
+            "guid": "4b7a2a59-a4b0-41f0-9f4b-5205ae54a898",
+            "id": "17",
+            "name": "",
+            "type": "url",
+            "url": "https://separator.mayastudios.com/index.php"
+         }, {
+            "date_added": "13343674824858702",
+            "date_last_used": "13362617705622459",
+            "guid": "406afe32-94d3-4ec5-a426-1bbdf9ba56d7",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AFIP",
+            "type": "url",
+            "url": "https://www.afip.gob.ar/landing/default.asp"
+         }, {
+            "date_added": "13365367625490642",
+            "date_last_used": "13365367630273772",
+            "guid": "27882026-2ca6-4019-be1d-fae9f6d8192e",
+            "id": "22",
+            "name": "",
+            "type": "url",
+            "url": "https://separator.mayastudios.com/?vert"
+         } ],
+         "date_added": "13364617918657838",
+         "date_last_used": "0",
+         "date_modified": "13365368344130808",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364617918657840",
+         "date_last_used": "0",
+         "date_modified": "13365368241805546",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364617918657841",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCTCRC3QqHQYAETCRC3QqHQYAKRSgC3QqHQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgL7nbSodBgARgL7nbSodBgApypsLdCodBgAwgP2e76alhwMSACoYVXVtM1Q2VHUxZUh5emRsTHdwemJPUT09SAMS7QEIERLoAQocdFpXOHVGQ2dRMlg4Vi8vWFJJdUV1aXdUektjPRJmWjpBRHF0QVp4YzVRYzZQWGtvemxicnlKRkxxTzBNdzNZOFpiQklvdWZWT0NJWXcxTGVpUmVCT1dkbmFtK3J0MnJhbG1GbXJGQzVsRW5PKzFRZnFxbzZaSkpiQkZvWm9CZXgvUT09GAAgACgAMInw/eWhrYIDOM6qo4K6MUDOqqOCujFKHEZlWTNrU3lKMDhGR2w3WVFlcjBNUmF5UXZhcz1aICIe//t0Qm9MUDFkdVVDSXA2UnBHdjNEWTRYNDRqelE9Zb3P7ZkSrQIIDBKoAgocR0hPdldMTjJhZDlEaTFlQ2JQUlpFa3cweGxJPRKmAVo6QURxdEFad0FMbHNDRnY2N2w0Tktwa2JVc09LcWxSM3Bza1Qvb2cyTi9DdVV2YkRaeXg4RGxmakNNcDNGTTQyb25TYmUreDhKRWVpOVdLT1A3NVhxMEl1czR4MlgyNlQyd1h6N3BMKzhRUVN6T3NRU1MrallnWnpkaEIrZm1DMG9iVld4R0ptSWRZeW82aDE4eHZaMGd2MGdpbk1lS3hPSzlBPT0YACAAKAAws7jqyZiJhgM429at/8YuQNvWrf/GLkocVUpydG1uRWU2bi9YcU83dlp6a0RCRnIwZEJJPVofIh3/bkU4MVlwcGZCL3VqL1NCNjJmTlE0TUExcCtNPWUNuYtMEuwBCAUS5wEKHERqejVPMUpsUGxhMHhiKzgxd01MU0NXNWZWYz0SZlo6QURxdEFaeGM1UWM2UFhrb3psYnJ5SkZMcU8wTU1SV2RaZmlhZHlGcmxqaUhKZ1QzRkV4MTZyNVB5cTNQV21mOEE4anlaWWd1SncxUWVSOWl4RVRyTUR2RUlrRFZNMFdWL1E9PRgAIAAoADCzuOrJmImGAzjmqeqmnzBA5qnqpp8wShxLS3dtMXE2YnNxTTY2N3RPM3dGblhqdVlvdVU9Wh8iHQg0VUpuVjhGaitNVksvVFJZMzhGWUQvVnVCM1k9ZciB1gcS7AEIDxLnAQocNE1rRkd1V29vcjgreHFkeFZXQ3Znc09DdlM4PRJmWjpBRHF0QVp4YzVRYzZQWGtvemxicnlKRkxxTzBNdnk1L1VEaERjNmM4c2RVdVY4YU44ckhkazQxa29TOTRyaVd1aTZsZU1iWVlMdm5keE1DNUlmNTFzV0g2TTUrV3VDa0RXZz09GAAgACgAMICJlL6ljYUDOL6IpoK6MUC+iKaCujFKHGVQUkNHTmh2a2JZVlpEZmEwM2svWlRQd1Uydz1aHyId0UFGVy82WWRZSUw0KzVqUlhqdHdLQVNQb1BuND1ln0/7exLtAQgSEugBChxjaVp3SmtDR25QbGd6RXlFZ05tL09tOFVWZWs9EmZaOkFEcXRBWnhjNVFjNlBYa296bGJyeUpGTHFPME1qT1lQSnFRS3hPRTA4RzYxb1RmYTcxZUNFK3hCbG9zeDZGZUxIT3V0L2NuSEMwckhRcmRvU0JUY0ExckRHdzM1a2FleDd3PT0YACAAKAAwmPjDzMnUhgM4m6GkgroxQJuhpIK6MUocVTQzOHhSZjBIbVZIUzFBdFRPRVA2bFF3VWgwPVogIh7//lJpUkxOQTRBNTVFazJkMHRmUlJSVkxCbFptWT1lCw45eBKtAggOEqgCChxLZitFMVp4YkxWUHJlMk8rYXZmb04xZktJRWs9EqYBWjpBRHF0QVp3QUxsc0NGdjY3bDROS3BrYlVzT0txbFIzcHNrVC9vZzJOL0N1VXZiRFp5d29UMnRab1kweWxxREtTSTBQVGp2b2Q0ais4TEl1WVVwemU4US8wYXlmTVlUU3U4eFdGcmNNVlhlR0x4NmhEbSthYzZ4b1FsMktyTWltV3BaYnhsV0k4RzdITFRJSjdnVDVxVU1uaFZDMFBuaGl6V0E9PRgAIAAoADC06JzuxKP3Ajjw277wzS5A8Nu+8M0uShxhUXVhZUlXemZFUC9aU1BSYUpGUEZEblRuL1E9Wh8iHbVERmx1d1Iya3BGS1hDTEhDMkN3WWVWNlB3M2c9ZWi4sAISrgIIDRKpAgocUE5QZ0VDQ1crTmJJU1pkdnAwZHZpOG9ObjhJPRKmAVo6QURxdEFad0FMbHNDRnY2N2w0Tktwa2JVc09LcWxSM3Bza1Qvb2cyTi9DdVV2YkRaeTRwUmZ0UTJBQlQ2dUNkUTlHak04Uis3cU9nRXNXUC9SdEw3dGMyNXNwV05NVVVhcDVOQ0IrVFRZa2J2SUhKaUhiTldQYWhQZ3ZUY1l3VzZyMTduZjhncEVPQ1ZMYUQ1aGtiOEFZNzM4ZmdzZ3JGUVR3PT0YACAAKAAw/rqM7MSj9wI4ssPW8M0uQLLD1vDNLkocUWxPckg5NzQzZUJRdFJIYTI0bTgwa1NNd3FRPVogIh7/9mNrYVNlTGlQQ3ZHazRTTjR6Q0E1cEU1ejJoST1lAAAAABLrAQgXEuYBChxUY0F5a2xQZUt5V1hhc0lFdTk4azlFL21YZnc9EmZaOkFEcXRBWnhjNVFjNlBYa296bGJyeUpGTHFPME0zWlA0Wk4xY1o3VnhuaXdHclVDUnV1MVUrcEFIblFISkJQNElNTndOVTYwS082TUJHa0s0elVJc24xbHUxMkpoWnVYNFF3PT0YACADKAMwxPXKktCkhwM4ja3B6ooyQNzeweqKMkocVElVMVpNR0ovZ1dpRS9NYm5FZHdTbUhyRXBFPVoeIhxwbUY1T2NBSHpwLzNuaUtMYjBqTzFCK1AwNFU9ZfNPjb4S7AEICxLnAQocRVEzNDkzVFQ5NXQvS0UvT1hQTGkvNkRBZEd3PRJmWjpBRHF0QVp4YzVRYzZQWGtvemxicnlKRkxxTzBNUGJ3M1k0VXR3TDRhRjU4N1NvandTRThsbTNLYUhkKzhmd3g2azgrTHNPcnRUbVFsQzhzS1F0Y3dVRU5VVzArMjk2dXg5QT09GAAgACgAMMqX/O6uuoIDOPK9nYK6MUDyvZ2CujFKHFhuOVh6MGxTdjVsRmo3SHhVS25PZ05XK3VLaz1aHyId2VNteU5yemRnN1NJQ1lKbllGNTRMbmZrRE9IYz1lvc/tmRKsAggKEqcCChxxK3Q0K2I1UHNvcTRjUTZrMThjeEtnWC8zalU9EqYBWjpBRHF0QVp3QUxsc0NGdjY3bDROS3BrYlVzT0txaXRMWFI1RDFWRzJhR2JTRWNzbXZGN2lJNzFKaGZVVUlVOUVHZUY4cVhtUDczMXMrVUMyN3JvM29WUWZ6NEpqRHhCVEpoSXBZS2FWVmppUEJ5eC9ZVjJwWGV6cWQraWhzVnAwRnZUMFFJb0NCVzd3dlpPWFBUdC9DWGF6c1lZTWJFcE9UY2c9PRgAIAAoADCzuOrJmImGAzj3ou+Fjy5A96LvhY8uShxESDh5L09hRXBsVCtpRHZUVHc5RmgxRUhreVk9Wh4iHGlhRE1zMnVUOEJDNnhSQXVLaFBRWHZ5TVZ0ST1lEDD/5BLsAQgJEucBChxEOHFaZXl0djVDVWZRakJJbGI0ajdNRDY0S2M9EmZaOkFEcXRBWnhjNVFjNlBYa296bGJyeUpGTHFPME1Bb2FOOGRSazZoaGVNRGd6ZnpLYk9YZ3g4NGNPMzRVeFhNNDlMOTVhSlRvODM4ZHB2Wkk0YlpQRjdTelpKT2ZTcWcwTHNBPT0YACAAKAAws7jqyZiJhgM4/KGdgroxQPyhnYK6MUocQjNrYVBxcTRkTXNxZCtLdEkwdUZYT3JFakNjPVofIh1XeGdBUDJ1UmttOTFCM3BzUGJyckJ4MEQ0djg4PWW9z+2ZEqwCCAcSpwIKHDBFY2FQNC9MejRCa21xallJS3c2OFlFOXV3cz0SpgFaOkFEcXRBWndBTGxzQ0Z2NjdsNE5LcGtiVXNPS3FpdExYUjVEMVZHMmFHYlNFY3NtdkY4TGxQTXNLZTVBZ2Q3ZVN4N3VmODlOZCtPWE5jeUxBaGhDYWdNT094c1FFZk4wM2lCNTdtLzQ0UjBXa05xS05WK0hSeTJXNXFqcW84VnJ5M09IcHQvV3VReVNJc2dOM0JtVkNGSDNqZkhQcTJxL28ydz09GAAgACgAMLO46smYiYYDOPei74WPLkD3ou+Fjy5KHCthM3BTaHFNS0dzaXBiZDdZRVhHTFlUbDFCQT1aHiIcRmhvMUp1UGtZczNRNlBkc3c4RU5PblA3aTZFPWUnm1oxEq0CCBASqAIKHHdFQkJoZnJYekZnM0ZmK1pDS0lKcUJRblJIND0SpgFaOkFEcXRBWndBTGxzQ0Z2NjdsNE5LcGtiVXNPS3FyMy9KZHZ4a21CdjlTaUVGMEVhUWZyZUpmbjZKRTBBRGxPc3VRTHQ0YUcwZ0RjVUJQRHpwN0p6ZW4wM0pPQXc1QzBoUnpzZ0VXVTJTWFd3dURCSUtLd2pwcnNZbGcxTW5CcXA4RWZQYnVNY0g5UGc4QWxYbkFVbGlPZkxYRFBlMjFMVGJLZz09GAAgACgAMOiAnN7G+fgCOPOT4citL0Dzk+HIrS9KHDFGYUlDR2x5SjczZ3h6VzIyVDNSWXI3OFpocz1aHyId7StzTWExOEhPZEZpbjFtZ2F0bzBFQnk5OFhKRT1lLdLUKRLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlGdFBJcnVVd1hIVzBQNlhvTXpWdXQwRS9MUDFtcUw3L0JvWDFxUVlrY0RVb2Y5T05GNFZLc3dJYlU1dXpUU0R5T2RWYjQrN1ZLMjUvNzl1c2ZrZllDVGhyVjVnPT0YACAAKAAw/7ighOWOhwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKtAggGEqgCChwvSmlBMk9FbjI0L2FrclVDNzJuZGNRZC9xWGM9EqYBWjpBRHF0QVp3QUxsc0NGdjY3bDROS3BrYlVzT0txTElkdWs2MCt2d0NzTU5ZelZoL243QXk3alMwK0x2L3VGTllPcWVFcnZpMmtUREpnNGJFZE55UE1ROXdtYVlIZ2ZGN3hic2t1OVROWS9oOW5XYjVqMG1HV3RyazZRUnBrTE5LNTM0TUN1S01RY1VzWmJjN1RuTlJ2ZHNDQ3VvQ1I2Q3FBM0E9PRgAIAAoADCzuOrJmImGAziBj+jBwS5AgY/owcEuShx2OVBPeU4vWWtheko3cTVaR1lYMFA0VWJSczQ9Wh8iHRF5ZWxaRzJ2bEhGZnBZekplOGVHbjI3TlJiTWM9ZRX0gJgS7gEIFhLpAQocNjhFSFYxcmdabHhKSjA1MndUenpXL3FjSHV3PRJmWjpBRHF0QVp4YzVRYzZQWGtvemxicnlKRkxxTzBNQ3FpSWVuaU8yOWZYRXJjOVhyMWxmS3JUSkI3NTk2d1JxblZWSlNzN2Zpak1zRGRvT291YU10a3hGM28vRk5EbDhDZnJGdz09GAAgAigCMJDu++vNpIcDOJPem+qKMkDcg5zqijJKHFgxZVgwWXFxM0pTOXB1eDBuZUZodTFMSC8yYz1aISIf//+UcE5QbVB0MElXTTRXOHFDbGRMMk4zRC9Ob1VZPWW9z+2ZEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFadzk4QkR6WkM5UDNRbTZPNUZtQVFqbGtZb3hqZUMyTEY1K01LV0NJQ0tTdFFrTVlVbG43MHN1b3RNR0dCTXU2UkxBaVp6eRgAIAAoADD/uKCE5Y6HAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqwCCAgSpwIKHG1ReEJwUE5ZZ1grOWhWV3ZuM1dzalhDelpLOD0SpgFaOkFEcXRBWndBTGxzQ0Z2NjdsNE5LcGtiVXNPS3FpdExYUjVEMVZHMmFHYlNFY3NtdkYvZ09HKzlmaStkZ0lIU1MzVWVGM0ZjWXVBY3p2YTErOGd2cXVtL1luQS95TWpxWlJrTTh0NEExTWx1Y0dWV0JSQ0M1NzBCM09UYTRxVVlZa2hEZ3lEVy9wQjhHR0Y5ZUlCdnpnamx4aGtUaU93YnRCUT09GAAgACgAMLO46smYiYYDOPei74WPLkD3ou+Fjy5KHEpYMExSengzY2MrWWlFNjh3SFVWVE9yTEMwQT1aHiIcSWhuc2NDZjg4bzU3eTZ2ejdwczdyUXJ2UnJnPWU4+TkzEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeHFkSmRaWjY0K0ZDQUFQYkcrc2pCTXhZWUdhajJQd0xaL051TmtpdGV0WFpUN3NSV29PUW40SWdCRlZpakdjSDlzRHFybHk3TXdyVjM1NEYyN1BNdTVmaFdoS1E9PRgAIAAoADD/uKCE5Y6HAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCBUS5wEKHCtDVUx3ZFJ6bVN3ODhaK1RpU1J3bXltOC9TMD0SZlo6QURxdEFaeGM1UWM2UFhrb3psYnJ5SkZMcU8wTXpNbmpGU3BQa1pNdEh1Y3AwaDFEanY2STY2QUxzbmlJTmRmS2VBY204TldodUk5amRTQlI4SElIK2c5eFQxRm9selRmYkE9PRgAIAIoAjDf+6zA0KSHAzip7JrqijJAw8zH6ooyShwwSWlJbjR1M3F1VWl5aG1lRkd6QU5aM1RlODA9Wh8iHaFkTlN4RElLVkFPTUFQNy9kYVVtWXMwM09sUGs9ZQAAAAAwATgA",
+   "version": 1
+}

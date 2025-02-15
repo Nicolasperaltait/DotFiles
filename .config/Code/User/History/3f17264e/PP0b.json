@@ -1,0 +1,87 @@
+{
+    "workbench.colorTheme": "Nord",
+    "editor.cursorStyle": "line-thin",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "security.workspace.trust.untrustedFiles": "open",
+    "mssql.connections": [],
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Windows PowerShell": {
+            "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        },
+
+    },  
+    "terminal.integrated.automationProfile.windows": {},
+    "workbench.activityBar.location": "top",
+    "git.enableSmartCommit": true,
+    "remoteHub.commitDirectlyWarning": "off",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.statusBar.visible": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "terminal.integrated.fontSize": 18,
+    "editor.fontVariations": false,
+    "editor.fontFamily": "monospace, Font Awesom, Symbols Nerd Font, MesloLGS NF",
+    "explorer.confirmDelete": false,
+    "glassit.alpha": 1,
+    "json.schemas": 
+    [
+
+
+    ],
+    "window.confirmSaveUntitledWorkspace": false,
+    "extensions.supportUntrustedWorkspaces": {
+    
+    },
+    "colorize.languages": [
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg",
+        "HEXA",
+        "ini",
+        "python",
+        "ini"
+    ],
+    "terminal.external.linuxExec": "kitty",
+    "terminal.integrated.automationProfile.linux": {},
+    "terminal.integrated.fontFamily": "monospace, Font Awesom, Symbols Nerd Font, MesloLGS NF",
+    "colorize.colorized_colors": [
+
+
+        "BROWSERS_COLORS",
+        "HEXA",
+        "RGB",
+        "HSL"
+        
+    ],
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily"
+    ],
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle"
+}

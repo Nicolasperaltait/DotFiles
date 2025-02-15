@@ -1,0 +1,45 @@
+[Default Applications]
+text/html=userapp-Firefox-R1JPQ2.desktop
+x-scheme-handler/http=userapp-Firefox-R1JPQ2.desktop
+x-scheme-handler/https=userapp-Firefox-R1JPQ2.desktop
+x-scheme-handler/about=microsoft-edge.desktop
+x-scheme-handler/unknown=microsoft-edge.desktop
+x-scheme-handler/webcal=google-chrome.desktop
+x-scheme-handler/chrome=userapp-Firefox-R1JPQ2.desktop
+application/x-extension-htm=userapp-Firefox-R1JPQ2.desktop
+application/x-extension-html=userapp-Firefox-R1JPQ2.desktop
+application/x-extension-shtml=userapp-Firefox-R1JPQ2.desktop
+application/xhtml+xml=userapp-Firefox-R1JPQ2.desktop
+application/x-extension-xhtml=userapp-Firefox-R1JPQ2.desktop
+application/x-extension-xht=userapp-Firefox-R1JPQ2.desktop
+x-scheme-handler/mailto=xfce4-mail-reader.desktop
+image/jpeg=org.xfce.ristretto.desktop
+image/png=feh.desktop
+
+[Added Associations]
+image/jpeg=org.xfce.ristretto.desktop;vlc.desktop;org.photoqt.PhotoQt.desktop;org.kde.gwenview.desktop;xfi.desktop;
+text/plain=code.desktop;org.xfce.mousepad.desktop;
+image/png=vlc.desktop;org.xfce.ristretto.desktop;org.videolan.VLC-openvcd.desktop;org.kde.gwenview.desktop;org.photoqt.PhotoQt.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;firefox-esr.desktop;userapp-Firefox-R1JPQ2.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;firefox-esr.desktop;userapp-Firefox-R1JPQ2.desktop;
+application/vnd.ms-cab-compressed=xarchiver.desktop;
+application/pdf=okularApplication_pdf.desktop;librewolf.desktop;
+video/x-matroska=org.videolan.VLC.desktop;
+application/xml=code.desktop;
+text/x-scheme=code.desktop;
+application/x-shellscript=code.desktop;nvim.desktop;
+application/zip=xarchiver.desktop;
+x-scheme-handler/chrome=userapp-Firefox-R1JPQ2.desktop;
+text/html=userapp-Firefox-R1JPQ2.desktop;
+application/x-extension-htm=userapp-Firefox-R1JPQ2.desktop;
+application/x-extension-html=userapp-Firefox-R1JPQ2.desktop;
+application/x-extension-shtml=userapp-Firefox-R1JPQ2.desktop;
+application/xhtml+xml=userapp-Firefox-R1JPQ2.desktop;
+application/x-extension-xhtml=userapp-Firefox-R1JPQ2.desktop;
+application/x-extension-xht=userapp-Firefox-R1JPQ2.desktop;
+video/mp4=vlc.desktop;google-chrome.desktop;
+
+[Removed Associations]
+image/png=feh.desktop;librewolf.desktop;firefox-esr.desktop;google-chrome.desktop;display-im6.q16.desktop;
+image/jpeg=google-chrome.desktop;display-im6.q16.desktop;feh.desktop;
+video/x-matroska=org.xfce.Parole.desktop;

@@ -1,0 +1,1 @@
+clockifyButton.render(".detailHeader:not(.clockify)",{observe:!0},(function(t){var e,o;o=$(".editableContent-display",t).title,(e=clockifyButton.createButton(o)).style.display="block",e.style.paddingTop="0",e.style.paddingBottom="0",e.style.marginBottom="10px",e.style.marginTop="10px",e.style.marginLeft="6px",e.style.cursor="pointer",t.appendChild(e)}));

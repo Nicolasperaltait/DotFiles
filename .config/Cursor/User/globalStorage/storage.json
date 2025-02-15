@@ -1,0 +1,77 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/nicolas/.cursor-tutor": "-218c6c26",
+            "file:///media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3": "-218c6c26"
+        },
+        "emptyWindows": {
+            "1718765344042": "-6277581c"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "4880d54291b8c1334cfe0d868de1ee328fcd63657ed29e05699a1fe10df8f816",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1718765344042"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/nicolas/.config/Cursor/Backups/1718765344042",
+            "uiState": {
+                "mode": 1,
+                "x": 2621,
+                "y": 37,
+                "width": 370,
+                "height": 1034,
+                "zoomLevel": -1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#111111",
+            "activityBarBackground": "#242424",
+            "sideBarBackground": "#242424",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#111111"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 36,
+            "activityBarWidth": 0,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "userDataProfiles": [
+        {
+            "location": "19bd422",
+            "name": "Cursor-Mayo24"
+        },
+        {
+            "location": "-218c6c26",
+            "name": "Cursor-Junio-24"
+        },
+        {
+            "location": "-6277581c",
+            "name": "cursorjunio24"
+        }
+    ]
+}

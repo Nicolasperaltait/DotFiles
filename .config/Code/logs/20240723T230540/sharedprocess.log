@@ -1,0 +1,10 @@
+2024-07-23 23:07:08.745 [info] Uninstalling extension from the profile: s-nlf-fh.glassit@0.2.6 vscode-userdata:/home/nicolas/.vscode/extensions/extensions.json
+2024-07-23 23:07:08.782 [info] Marked extension as uninstalled s-nlf-fh.glassit-0.2.6
+2024-07-23 23:07:08.848 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/nicolas/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/nicolas/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-23 23:07:09.152 [info] Successfully uninstalled extension from the profile s-nlf-fh.glassit@0.2.6 vscode-userdata:/home/nicolas/.vscode/extensions/extensions.json

@@ -1,0 +1,1 @@
+mkdir -p /usr/share/fonts/ttf && sudo cp *.ttf /usr/share/fonts/ttf && fc-cache -f -v 

@@ -1,0 +1,92 @@
+{
+   "checksum": "7810295404b71e4a2fdee5f46d385207",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13348611777776395",
+            "date_last_used": "13364617503578472",
+            "guid": "6025b300-745c-4d24-be83-6f9aa372e508",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Seguridad",
+            "type": "url",
+            "url": "https://myaccount.google.com/security?rapt=AEjHL4PjZbY7IB0sQgIJWxcOXLwLPknEgvSK-JJAwyQGIjerNCUx5J_b1bQ7OHQ4tRbSU2dIdEC96hpX_iQQ4IXOuEAE9idv3RbC6dWgihQi0vfBKnt2lxM"
+         }, {
+            "date_added": "13348972790040658",
+            "date_last_used": "0",
+            "guid": "a4fcf9f2-c01b-4eba-adeb-25e64969b046",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Microsoft Cuenta",
+            "type": "url",
+            "url": "https://account.microsoft.com/?ref=MeControl&refd=www.microsoft.com"
+         }, {
+            "date_added": "13348611188436790",
+            "date_last_used": "13364617652095471",
+            "guid": "ce0065a2-31bf-457e-b4ca-a02f3d1d15e8",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bitwarden",
+            "type": "url",
+            "url": "https://bitwarden.com/"
+         }, {
+            "date_added": "13348611277758360",
+            "date_last_used": "13364617630331429",
+            "guid": "d6defeb6-13e8-4d89-9644-f3713cdd2e80",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Proton Mail",
+            "type": "url",
+            "url": "https://account.proton.me/es/mail"
+         }, {
+            "date_added": "13348611308398979",
+            "date_last_used": "0",
+            "guid": "c58331ac-010e-4fa9-953c-f2d742f32a56",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Latch",
+            "type": "url",
+            "url": "https://latch.telefonica.com/"
+         } ],
+         "date_added": "13364617250480481",
+         "date_last_used": "0",
+         "date_modified": "13348972790040658",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364617250480487",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364617250480491",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvADCs8DCIiBAhLIAyAAkgHCAwr4AgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJTWH5LXYcBgARTWH5LXYcBgAiNAltS2UsdhwGABADGfxaAoqFdHIhIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAltS2UsdhwGABADGfxaAoqFdHIhIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAltS2UsdhwGABADGfxaAoqFdHIhIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAltS2UsdhwGABADGfxaAoqFdHIhIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAltS2UsdhwGABADGfxaAoqFdHIhIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAltS2UsdhwGABADGfxaAoqFdHIhIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEp/4r5LXYcBgAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAI9EndhwGABEAI9EndhwGACn6a/ktdhwGADCAxsS+4o6HAxIAKhg3cTB2N2NKK1BLMVBCRWU2UEM0Snp3PT1IAxLsAQgIEucBChw4RFJ0ejV6SG9aOERIQndTS0dVN2toUEpLeXM9EmZaOkFEcXRBWnlQbCtraHE2UDAySFN4aDQ3bDZsa3RnalR2LzdCUEVqcitDcFZsZkFqd0xwVktQc0hYTjFyenZ1Z2RmdnJVdDdReXVyTnJtaTNVaG43cFdBamsvc1ptZWJtdURRPT0YACAAKAAw+Z2xm8mGhgM4vreVtMwxQL63lbTMMUocZ3N0SXpIYnN6ZUxNVjNZVm5Cbm1pQ2xncE1zPVofIh3ZcGFsME9SVUhDK3loYVRPc2x2OE8wSzBLUG9RPWUKO6z5EusBCAcS5gEKHHh0RU9OZ0doaWxKOW9JcWttMzRXTC9oZ1ZPVT0SZlo6QURxdEFaeVBsK2tocTZQMDJIU3hoNDdsNmxrdExEbXpnbFB2VGZ3UTNBcC9MU2hrWW1IYUF0aU15WGhUaVM5Y3c4TWE2OCsyS0s0MVI3M3BHdFlSa1A5OGJLQTRVVDA0dEE9PRgAIAAoADD5nbGbyYaGAzjU/Y+0zDFA1P2PtMwxShw2ajJxNGU3S0ZkUkRFVGM4a0ZKdndCTHMwWU09Wh4iHGUyVW1sWEhpZkw5V00xYVd4Ny9sb2VCRUdYdz1lZCsa6hLrAQgFEuYBChxKY0grMXhVVW1tNHFqZHBKcTNGQ0kyaHJkemM9EmZaOkFEcXRBWnlQbCtraHE2UDAySFN4aDQ3bDZsa3Q1NWRaQ0dkV1o2VnJveTFNb1BTSk5GaWRFZlVHNkVoZzFNKzdXQThlcXByOTUwNitqYzc2cGVNd2RBWk9WcENtZk9ETUpBPT0YACAAKAAw+Z2xm8mGhgM48PmztMwxQPD5s7TMMUocMDNYaUxORm1rTkFoVmMrbXd0ZkFhMlNkM1lJPVoeIhxPSk4rMWhkQ1lxaEZvUXBxaDVHUDBFTUx1UTQ9ZRAw/+QSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4ZDFSK1RERERyaVF2WDFxNW1yRWE0ZWhOU3ZsU2JSUUMvMGVMd0xLRGIyMEtBN1VsaU5oZnFZVGlRTTRVU3FyaEx2NUFiGAAgACgAMNOv8prJhoYDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEICRLnAQocUEJqUWp1ZVBYZVVnSVkyRUpNU0grNkY5cjM0PRJmWjpBRHF0QVp5UGwra2hxNlAwMkhTeGg0N2w2bGt0d3NiNWJLTTRnZm53TzA4eG9qSkxnV0NYVnJwb3p0aEFIMFR2alZhaTdFQ1Q0WGJpMW84N242anpzY1JrR1YxR0gxazNmZz09GAAgACgAMPmdsZvJhoYDOO+ml7TMMUDvppe0zDFKHC9oT2JETHNpeDA5a2djQjVWTDlNUVhSRUhjOD1aHyId7DVkbXhDT29OZ3l4QStqYm9SMDdscGdGR1VGWT1lWhopQhLrAQgGEuYBChw4UXJ5bXF1MkpKQUJIMmVJWUNpNm1zWW53MTg9EmZaOkFEcXRBWnlQbCtraHE2UDAySFN4aDQ3bDZsa3QxLzdKSTVhQzhZRGRWSVFLL01hRlpwYVNqMEZ1OW8vaEY4VU1EMnFVV0ZKRkl4VE1aYXJhNHcwS05DRHRnTnl1Nk1uVmJRPT0YACAAKAAw+Z2xm8mGhgM4mbLG4M0xQJmyxuDNMUoccFpqeWlwd3hjTzBCUHpEamRhbHVNYjJvYWVRPVoeIhxQOGhTN2lPdUJUZEF0Q2xSN0VrM2w3WHJDcTA9Zacc0hkSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp4WENTR2htRGp6OEtyM09MTHlabnpPdkVyeXpnd25YV042Sm5hSmZnVEZNOHNWaS9ETmlTaXhWTXBMaGF5dW9uaFlMVTZKL0xCc01LTVJpdmxJQkVHQU0vWkZzQT09GAAgACgAMNOv8prJhoYDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp4TFgwM3R5eEVuN1ZOUm4zSUVoQ0laSUIyRnN0MmczNEd6ZEQ3SEJXZHZOQ1g3MGt2MmRoVXFYL3NCM3FQTzE5aFBqTmc1MERuUGMwK0V0b0doQnR6L1NUU3JyZz09GAAgACgAMNOv8prJhoYDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAwATgA",
+   "version": 1
+}

@@ -1,0 +1,1 @@
+clockifyButton.render(".zenkit-entry-detail-popup-subheader-left:not(.clockify)",{observe:!0},(function(t){let e=$(".zenkit-details-view__display-string"),n=clockifyButton.createButton(e.textContent);t.append(n)}));

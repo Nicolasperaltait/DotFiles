@@ -1,0 +1,1 @@
+(async()=>{const e=await getSelectors("pipefy","cardModalView");clockifyButton.render(e.hanger,{observe:!0},(async e=>{const t=await getSelectors("pipefy","cardModalView"),o=$(t.description,e).textContent,i=clockifyButton.createButton({description:o});i.style.position="relative",i.style.fontSize="16px",i.style.marginTop="16px",e.append(i)}))})();

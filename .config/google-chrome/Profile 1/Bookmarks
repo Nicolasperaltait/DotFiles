@@ -1,0 +1,70 @@
+{
+   "checksum": "93642510fd729cd3b982a7fc95a3f7a2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13332576126288171",
+            "date_last_used": "13365744169958240",
+            "guid": "3b45a6d7-4103-42aa-b39b-47ecbeaeae0c",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/?pli=1"
+         }, {
+            "date_added": "13331846528673212",
+            "date_last_used": "13366321150479969",
+            "guid": "cacb9dfc-e577-4733-90ed-1c304ce18c59",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Studio",
+            "type": "url",
+            "url": "https://studio.youtube.com/"
+         }, {
+            "date_added": "13331873633502054",
+            "date_last_used": "13365228891817543",
+            "guid": "8f10f59d-5903-488b-b821-b09765b7788a",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NicoIT",
+            "type": "url",
+            "url": "https://www.youtube.com/channel/UCOmMrbknp_tPu3mWxdkglvA"
+         } ],
+         "date_added": "13364003477876430",
+         "date_last_used": "0",
+         "date_modified": "13332576126288171",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364003477876433",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364003477876435",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCTJbmN8CHgYAETJbmN8CHgYAKRChmN8CHgYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgFqd2QIeBgARgFqd2QIeBgAp8WOY3wIeBgAwgLX1zK3AhwMSACoYN2l0NWRYSmdDdENKUlozMnNoYkJBZz09SAMSwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5ZTNiRlJFdGU5LzdualI5Y2Z2Y0Z4ZmZWb0psay93OHU4dW9aRnNHWUprNzhDNVBZUStwSmFkT0RmVktZbnFmV3VJK3J2WUM3bjgrOUhjLzAwcFdheTZ4bU9Hdz09GAAgACgAML+++9beroYDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7AEIBRLnAQocQkVjWGRuT3Ayc3BpQXpOWFRMS0QxMU9XOUg4PRJmWjpBRHF0QVp6Q2hPSFZ4VThIQ3RGeE5UeVE3UG80UTF0OFgvelNuMDl5TGF3YkNScGRGQ3FreGRlNm5QTkNUQU9odmtnWHhHRlhWTTNnMGpjVTZiR252b1Y0cVZKOStTMlNqUT09GAAgACgAMO+7ztfHhoYDONC6gdaQMUDQuoHWkDFKHEJZeWhhZy9oWG5VbndHdGZ6U1NqK1c5di9VOD1aHyIdMG1iMHFOWjV0U1BIV0JoZ0ZwVkVNTStmOS9NND1lmz2FthLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnk4MC9YTEFRNVEvRHJQeWxITnp4Y0haenp6M1gwSER1MU0wUHlOallpSzU5cUREY01sV2RPL3I3TU93Vm0yT3ViRjd1UDIrVVo5R05YbU50bUNIK3p4QlNmeHdnPT0YACAAKAAwv7771t6uhgM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnorY3dqck81MDZ2ZWtqQUkrMTFTOFpSbmlnVmFCajJCUFJKNElteCtacHRTZVY5cGd6ZVo0NzZCTzV6azJqNG1WTTdYQzEYACAAKAAwv7771t6uhgM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgHEucBChw4N2VkdlRwTzA3dTNVdmk0SEFTbTNUNEhBcTg9EmZaOkFEcXRBWnpDaE9IVnhVOEhDdEZ4TlR5UTdQbzRGSjlUdGJjdzFQdGlSKzBUMHJidm1OMmZ2Vzg4WnBMeUQ1a1hhWVlLQ1YzcEo4SVRwejYzOUxhRU5vY2s2UnhEcVYxU0JRPT0YACAAKAAw77vO18eGhgM43tmEh44xQN7ZhIeOMUoccVBvd2VZRHFhdGRkMkNsK1JZUm5UNGRpL3E0PVofIh3cVjB2c3oxU3pyNmtQT1JjTEIxSW9kU1Q3ekxrPWU4+TkzEuwBCAYS5wEKHEtnODJVSlptTnpCb05xWXN0Vi9uLzF6Z3FVbz0SZlo6QURxdEFaekNoT0hWeFU4SEN0RnhOVHlRN1BvNEY0bjd1WUFCMFJNeVZsQnJRS3FzTzJ0Wkh5YURWQ2pwQ0xOYVdWc3h1UFNiaFFpTmtYMjFKeEZMVGI1eVBibVIycXM2UGc9PRgAIAAoADDvu87Xx4aGAziirY76jTFAoq2O+o0xShwyWFJUWDFYSkk2cHdwcW1KRXllTmN3ckQ5ZVU9Wh8iHbk2bDdESUYyRndVdC9PbkFWL3dLNVA1YTh0TEU9ZXf/TBowATgA",
+   "version": 1
+}

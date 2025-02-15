@@ -1,0 +1,31 @@
+2024/07/13-14:59:56.169 fdd79 Reusing MANIFEST /home/nicolas/.config/google-chrome/Profile 3/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/07/13-14:59:56.169 fdd79 Recovering log #75
+2024/07/13-14:59:56.169 fdd79 Reusing old log /home/nicolas/.config/google-chrome/Profile 3/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000075.log 
+2024/07/13-15:01:28.521 fdd79 Level-0 table #79: started
+2024/07/13-15:01:28.544 fdd79 Level-0 table #79: 4394341 bytes OK
+2024/07/13-15:01:28.547 fdd79 Delete type=0 #75
+2024/07/13-15:01:32.035 fdd79 Level-0 table #81: started
+2024/07/13-15:01:32.079 fdd79 Level-0 table #81: 4547538 bytes OK
+2024/07/13-15:01:32.080 fdd79 Delete type=0 #78
+2024/07/13-15:01:32.082 fdd79 Compacting 4@0 + 3@1 files
+2024/07/13-15:01:32.101 fdd79 Generated table #82@0: 4 keys, 2547050 bytes
+2024/07/13-15:01:32.125 fdd79 Generated table #83@0: 3 keys, 3661195 bytes
+2024/07/13-15:01:32.182 fdd79 Generated table #84@0: 2 keys, 4547538 bytes
+2024/07/13-15:01:32.191 fdd79 Generated table #85@0: 10 keys, 1281769 bytes
+2024/07/13-15:01:32.191 fdd79 Compacted 4@0 + 3@1 files => 12037552 bytes
+2024/07/13-15:01:32.193 fdd79 compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #68
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #76
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #81
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #70
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #69
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #79
+2024/07/13-15:01:32.193 fdd79 Delete type=2 #74
+2024/07/13-15:01:32.197 fdd79 Compacting 1@1 + 2@2 files
+2024/07/13-15:01:32.213 fdd79 Generated table #86@1: 10 keys, 2953895 bytes
+2024/07/13-15:01:32.229 fdd79 Generated table #87@1: 6 keys, 2891589 bytes
+2024/07/13-15:01:32.229 fdd79 Compacted 1@1 + 2@2 files => 5845484 bytes
+2024/07/13-15:01:32.231 fdd79 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/07/13-15:01:32.231 fdd79 Delete type=2 #51
+2024/07/13-15:01:32.231 fdd79 Delete type=2 #72
+2024/07/13-15:01:32.231 fdd79 Delete type=2 #83

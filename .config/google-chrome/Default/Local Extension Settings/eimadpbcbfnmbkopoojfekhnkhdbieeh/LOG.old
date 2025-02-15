@@ -1,0 +1,18 @@
+2024/07/22-14:02:53.682 27db5a Reusing MANIFEST /home/nicolas/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/07/22-14:02:53.682 27db5a Recovering log #247
+2024/07/22-14:02:53.684 27db5a Reusing old log /home/nicolas/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000247.log 
+2024/07/22-14:17:46.779 27db5b Level-0 table #251: started
+2024/07/22-14:17:46.792 27db5b Level-0 table #251: 1531243 bytes OK
+2024/07/22-14:17:46.795 27db5b Delete type=0 #247
+2024/07/22-20:30:36.764 27db5b Level-0 table #253: started
+2024/07/22-20:30:36.791 27db5b Level-0 table #253: 1547124 bytes OK
+2024/07/22-20:30:36.794 27db5b Delete type=0 #250
+2024/07/22-20:30:36.794 27db5a Compacting 4@0 + 1@1 files
+2024/07/22-20:30:36.818 27db5a Generated table #254@0: 3 keys, 52519 bytes
+2024/07/22-20:30:36.818 27db5a Compacted 4@0 + 1@1 files => 52519 bytes
+2024/07/22-20:30:36.822 27db5a compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/22-20:30:36.822 27db5a Delete type=2 #245
+2024/07/22-20:30:36.822 27db5a Delete type=2 #248
+2024/07/22-20:30:36.822 27db5a Delete type=2 #251
+2024/07/22-20:30:36.822 27db5a Delete type=2 #242
+2024/07/22-20:30:36.822 27db5a Delete type=2 #253

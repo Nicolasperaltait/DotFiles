@@ -1,0 +1,1 @@
+clockifyButton.render(".taskCard:not(.clockify)",{observe:!0},(t=>{var e,n,o,a,i=$(".title",t).textContent;e=clockifyButton.createButton(i,(n=$(".planTaskboardPage .primaryTextSection h1"),o=$(".planName",t),a=$(".tasksBoardPage .primaryTextSectionTitle"),n?n.textContent:o?o.textContent:a?a.textContent:void 0)),$(".leftSection",t).appendChild(e)}));

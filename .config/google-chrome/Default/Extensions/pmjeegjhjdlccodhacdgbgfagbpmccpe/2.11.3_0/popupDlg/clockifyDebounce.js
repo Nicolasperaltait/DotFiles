@@ -1,0 +1,1 @@
+function clockifyDebounce(n,t){var c;return function(){const o=this,u=arguments;clearTimeout(c),c=setTimeout((function(){c=null,n.apply(o,u)}),t)}}

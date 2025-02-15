@@ -1,0 +1,7 @@
+2024/07/23-17:13:39.072 208272 Reusing MANIFEST /home/nicolas/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/23-17:13:39.072 208272 Recovering log #3
+2024/07/23-17:13:39.072 208272 Reusing old log /home/nicolas/.config/google-chrome/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000003.log 
+2024/07/23-17:13:39.624 208272 Level-0 table #5: started
+2024/07/23-17:13:39.626 208272 Level-0 table #5: 10148 bytes OK
+2024/07/23-17:13:39.628 208272 Delete type=0 #3
+2024/07/23-17:13:39.629 208272 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

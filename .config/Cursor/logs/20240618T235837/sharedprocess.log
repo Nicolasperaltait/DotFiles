@@ -1,0 +1,147 @@
+2024-06-18 23:59:00.271 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/nicolas/.cursor/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/nicolas/.cursor/extensions/extensions.json.vsctmp'
+    at a.create (/tmp/.mount_cursortuXjvh/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:52:30393)
+    at d (/tmp/.mount_cursortuXjvh/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:52:30503)
+    at t.hb (/tmp/.mount_cursortuXjvh/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36621)
+    at t.stat (/tmp/.mount_cursortuXjvh/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29061)
+    at async w.stat (/tmp/.mount_cursortuXjvh/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16207)
+    at async ee.sb (/tmp/.mount_cursortuXjvh/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:106:31292)
+2024-06-18 23:59:34.937 [info] Getting Manifest... pkief.material-icon-theme
+2024-06-18 23:59:34.938 [info] Getting Manifest... esbenp.prettier-vscode
+2024-06-18 23:59:34.938 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-06-18 23:59:34.938 [info] Getting Manifest... jakebathman.mysql-syntax
+2024-06-18 23:59:34.938 [info] Getting Manifest... mhutchie.git-graph
+2024-06-18 23:59:34.938 [info] Getting Manifest... nilssoderman.batch-runner
+2024-06-18 23:59:34.939 [info] Getting Manifest... rdnlsmith.linux-themes
+2024-06-18 23:59:34.939 [info] Getting Manifest... inferrinizzard.prettier-sql-vscode
+2024-06-18 23:59:34.939 [info] Getting Manifest... zhuangtongfa.material-theme
+2024-06-18 23:59:36.294 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2024-06-18 23:59:36.305 [info] Installing extension: pkief.material-icon-theme
+2024-06-18 23:59:36.305 [info] Installing extension: esbenp.prettier-vscode
+2024-06-18 23:59:36.305 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-06-18 23:59:36.305 [info] Installing extension: jakebathman.mysql-syntax
+2024-06-18 23:59:36.305 [info] Installing extension: mhutchie.git-graph
+2024-06-18 23:59:36.306 [info] Installing extension: nilssoderman.batch-runner
+2024-06-18 23:59:36.306 [info] Installing extension: rdnlsmith.linux-themes
+2024-06-18 23:59:36.306 [info] Installing extension: inferrinizzard.prettier-sql-vscode
+2024-06-18 23:59:36.306 [info] Installing extension: zhuangtongfa.material-theme
+2024-06-18 23:59:36.306 [info] Installing extension: ms-vscode-remote.remote-wsl
+2024-06-18 23:59:36.306 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2024-06-18 23:59:36.306 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2024-06-18 23:59:36.306 [info] Installing the extension without checking dependencies and pack vscode-icons-team.vscode-icons
+2024-06-18 23:59:36.306 [info] Installing the extension without checking dependencies and pack jakebathman.mysql-syntax
+2024-06-18 23:59:36.307 [info] Installing the extension without checking dependencies and pack mhutchie.git-graph
+2024-06-18 23:59:36.307 [info] Installing the extension without checking dependencies and pack nilssoderman.batch-runner
+2024-06-18 23:59:36.307 [info] Installing the extension without checking dependencies and pack rdnlsmith.linux-themes
+2024-06-18 23:59:36.307 [info] Installing the extension without checking dependencies and pack inferrinizzard.prettier-sql-vscode
+2024-06-18 23:59:36.307 [info] Installing the extension without checking dependencies and pack zhuangtongfa.material-theme
+2024-06-18 23:59:36.307 [info] Installing the extension without checking dependencies and pack ms-vscode-remote.remote-wsl
+2024-06-18 23:59:36.814 [info] Started downloading extension: pkief.material-icon-theme 5.4.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-pkief.material-icon-theme-5.4.2
+2024-06-18 23:59:36.820 [info] Started downloading extension: esbenp.prettier-vscode 10.4.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-esbenp.prettier-vscode-10.4.0
+2024-06-18 23:59:36.825 [info] No need to download extension as it exists already. pkief.material-icon-theme 5.4.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-pkief.material-icon-theme-5.4.2
+2024-06-18 23:59:36.826 [info] Started downloading extension: pkief.material-icon-theme 5.4.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/pkief.material-icon-theme-5.4.2.sigzip
+2024-06-18 23:59:36.826 [info] No need to download extension as it exists already. esbenp.prettier-vscode 10.4.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-esbenp.prettier-vscode-10.4.0
+2024-06-18 23:59:36.826 [info] Started downloading extension: esbenp.prettier-vscode 10.4.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/esbenp.prettier-vscode-10.4.0.sigzip
+2024-06-18 23:59:36.838 [info] Started downloading extension: vscode-icons-team.vscode-icons 12.8.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-vscode-icons-team.vscode-icons-12.8.0
+2024-06-18 23:59:36.845 [info] No need to download extension as it exists already. vscode-icons-team.vscode-icons 12.8.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-vscode-icons-team.vscode-icons-12.8.0
+2024-06-18 23:59:36.845 [info] Started downloading extension: vscode-icons-team.vscode-icons 12.8.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-12.8.0.sigzip
+2024-06-18 23:59:36.849 [info] Started downloading extension: jakebathman.mysql-syntax 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-jakebathman.mysql-syntax-1.3.1
+2024-06-18 23:59:36.860 [info] Downloading extension to temp location: pkief.material-icon-theme 5.4.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.10a869a5-9bac-4422-8474-768782e9c2f5
+2024-06-18 23:59:36.861 [info] Downloading extension to temp location: esbenp.prettier-vscode 10.4.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.b216b726-0cac-4432-9763-a84097394a37
+2024-06-18 23:59:36.863 [info] No need to download extension as it exists already. jakebathman.mysql-syntax 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-jakebathman.mysql-syntax-1.3.1
+2024-06-18 23:59:36.863 [info] Started downloading extension: jakebathman.mysql-syntax 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/jakebathman.mysql-syntax-1.3.1.sigzip
+2024-06-18 23:59:36.875 [info] Started downloading extension: mhutchie.git-graph 1.30.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-mhutchie.git-graph-1.30.0
+2024-06-18 23:59:36.877 [info] Downloading extension to temp location: vscode-icons-team.vscode-icons 12.8.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.5d989b42-7404-4a98-ad28-f32b7b46d8cc
+2024-06-18 23:59:36.883 [info] No need to download extension as it exists already. mhutchie.git-graph 1.30.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-mhutchie.git-graph-1.30.0
+2024-06-18 23:59:36.883 [info] Started downloading extension: mhutchie.git-graph 1.30.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0.sigzip
+2024-06-18 23:59:36.891 [info] Started downloading extension: nilssoderman.batch-runner 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-nilssoderman.batch-runner-1.3.0
+2024-06-18 23:59:36.898 [info] Downloading extension to temp location: jakebathman.mysql-syntax 1.3.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.23893bcc-4a20-4cb0-9b4b-df726e72a4dd
+2024-06-18 23:59:36.899 [info] No need to download extension as it exists already. nilssoderman.batch-runner 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-nilssoderman.batch-runner-1.3.0
+2024-06-18 23:59:36.899 [info] Started downloading extension: nilssoderman.batch-runner 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/nilssoderman.batch-runner-1.3.0.sigzip
+2024-06-18 23:59:36.914 [info] Started downloading extension: rdnlsmith.linux-themes 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-rdnlsmith.linux-themes-1.3.0
+2024-06-18 23:59:36.919 [info] Downloading extension to temp location: mhutchie.git-graph 1.30.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.2e2ffcfd-1b02-4be3-a4d8-02249f8a7e40
+2024-06-18 23:59:36.921 [info] No need to download extension as it exists already. rdnlsmith.linux-themes 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-rdnlsmith.linux-themes-1.3.0
+2024-06-18 23:59:36.921 [info] Started downloading extension: rdnlsmith.linux-themes 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/rdnlsmith.linux-themes-1.3.0.sigzip
+2024-06-18 23:59:36.935 [info] Started downloading extension: inferrinizzard.prettier-sql-vscode 1.6.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-inferrinizzard.prettier-sql-vscode-1.6.0
+2024-06-18 23:59:36.942 [info] Downloading extension to temp location: nilssoderman.batch-runner 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.c0bcebf3-5ece-492e-9033-329734516764
+2024-06-18 23:59:36.944 [info] No need to download extension as it exists already. inferrinizzard.prettier-sql-vscode 1.6.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-inferrinizzard.prettier-sql-vscode-1.6.0
+2024-06-18 23:59:36.944 [info] Started downloading extension: inferrinizzard.prettier-sql-vscode 1.6.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/inferrinizzard.prettier-sql-vscode-1.6.0.sigzip
+2024-06-18 23:59:36.952 [info] Started downloading extension: zhuangtongfa.material-theme 3.17.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-zhuangtongfa.material-theme-3.17.2
+2024-06-18 23:59:36.959 [info] Downloading extension to temp location: rdnlsmith.linux-themes 1.3.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.58fabf60-e6cf-45c8-a39c-9e13f298be8f
+2024-06-18 23:59:36.960 [info] No need to download extension as it exists already. zhuangtongfa.material-theme 3.17.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-zhuangtongfa.material-theme-3.17.2
+2024-06-18 23:59:36.961 [info] Started downloading extension: zhuangtongfa.material-theme 3.17.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.17.2.sigzip
+2024-06-18 23:59:36.964 [info] Started downloading extension: ms-vscode-remote.remote-wsl 0.81.8 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-ms-vscode-remote.remote-wsl-0.81.8
+2024-06-18 23:59:36.966 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.966 [info] Extension signature verification is not done: esbenp.prettier-vscode
+2024-06-18 23:59:36.966 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.966 [info] Extension signature verification is not done: pkief.material-icon-theme
+2024-06-18 23:59:36.969 [info] No need to download extension as it exists already. ms-vscode-remote.remote-wsl 0.81.8 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-ms-vscode-remote.remote-wsl-0.81.8
+2024-06-18 23:59:36.969 [info] Started downloading extension: ms-vscode-remote.remote-wsl 0.81.8 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.81.8.sigzip
+2024-06-18 23:59:36.969 [info] Downloading extension to temp location: inferrinizzard.prettier-sql-vscode 1.6.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.39d3bb08-9867-4a4d-b541-07fbd917bce6
+2024-06-18 23:59:36.971 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.971 [info] Extension signature verification is not done: vscode-icons-team.vscode-icons
+2024-06-18 23:59:36.980 [info] Downloading extension to temp location: zhuangtongfa.material-theme 3.17.2 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.34f72cfa-3352-45eb-afd5-8047cdb61874
+2024-06-18 23:59:36.981 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.981 [info] Extension signature verification is not done: jakebathman.mysql-syntax
+2024-06-18 23:59:36.982 [info] Downloading extension to temp location: ms-vscode-remote.remote-wsl 0.81.8 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.f5f301cf-0d68-4a68-b4ee-71304e1d1d14
+2024-06-18 23:59:36.986 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.987 [info] Extension signature verification is not done: mhutchie.git-graph
+2024-06-18 23:59:36.991 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.991 [info] Extension signature verification is not done: nilssoderman.batch-runner
+2024-06-18 23:59:36.994 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.994 [info] Extension signature verification is not done: rdnlsmith.linux-themes
+2024-06-18 23:59:36.997 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:36.998 [info] Extension signature verification is not done: inferrinizzard.prettier-sql-vscode
+2024-06-18 23:59:37.002 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:37.002 [info] Extension signature verification is not done: zhuangtongfa.material-theme
+2024-06-18 23:59:37.004 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursortuXjvh/resources/app/out/bootstrap-fork.js
+2024-06-18 23:59:37.004 [info] Extension signature verification is not done: ms-vscode-remote.remote-wsl
+2024-06-18 23:59:37.019 [info] Extracting extension completed. esbenp.prettier-vscode
+2024-06-18 23:59:37.024 [info] Extracting extension completed. pkief.material-icon-theme
+2024-06-18 23:59:37.026 [info] Extracting extension completed. jakebathman.mysql-syntax
+2024-06-18 23:59:37.027 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2024-06-18 23:59:37.029 [info] Extracting extension completed. mhutchie.git-graph
+2024-06-18 23:59:37.032 [info] Extracting extension completed. nilssoderman.batch-runner
+2024-06-18 23:59:37.036 [info] Extracting extension completed. rdnlsmith.linux-themes
+2024-06-18 23:59:37.036 [info] Extracting extension completed. inferrinizzard.prettier-sql-vscode
+2024-06-18 23:59:37.040 [info] Extracting extension completed. zhuangtongfa.material-theme
+2024-06-18 23:59:37.042 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2024-06-18 23:59:37.094 [info] Extension installed successfully: esbenp.prettier-vscode
+2024-06-18 23:59:37.094 [info] Extension installed successfully: pkief.material-icon-theme
+2024-06-18 23:59:37.094 [info] Extension installed successfully: jakebathman.mysql-syntax
+2024-06-18 23:59:37.094 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2024-06-18 23:59:37.094 [info] Extension installed successfully: mhutchie.git-graph
+2024-06-18 23:59:37.094 [info] Extension installed successfully: nilssoderman.batch-runner
+2024-06-18 23:59:37.094 [info] Extension installed successfully: rdnlsmith.linux-themes
+2024-06-18 23:59:37.094 [info] Extension installed successfully: inferrinizzard.prettier-sql-vscode
+2024-06-18 23:59:37.095 [info] Extension installed successfully: zhuangtongfa.material-theme
+2024-06-18 23:59:37.095 [info] Extension installed successfully: ms-vscode-remote.remote-wsl

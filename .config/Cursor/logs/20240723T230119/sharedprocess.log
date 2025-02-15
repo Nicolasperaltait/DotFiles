@@ -1,0 +1,45 @@
+2024-07-23 23:01:29.900 [info] Getting Manifest... pkief.material-icon-theme
+2024-07-23 23:01:30.291 [info] Installing extension: pkief.material-icon-theme
+2024-07-23 23:01:30.572 [info] Started downloading extension: pkief.material-icon-theme 5.7.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-pkief.material-icon-theme-5.7.0
+2024-07-23 23:01:30.573 [info] Downloading extension to temp location: pkief.material-icon-theme 5.7.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.1f0972fc-8edf-43f0-ac8c-b6c389ef2b2f
+2024-07-23 23:01:31.952 [info] Started downloading extension: pkief.material-icon-theme 5.7.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/pkief.material-icon-theme-5.7.0.sigzip
+2024-07-23 23:01:31.953 [info] Downloading extension to temp location: pkief.material-icon-theme 5.7.0 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.6fbcf9c2-a296-49d1-800f-c58e652a7b4a
+2024-07-23 23:01:31.999 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursorBH5YC0/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursorBH5YC0/resources/app/out/bootstrap-fork.js
+2024-07-23 23:01:31.999 [info] Extension signature verification is not done: pkief.material-icon-theme
+2024-07-23 23:01:33.133 [info] Extracted extension to file:///home/nicolas/.cursor/extensions/pkief.material-icon-theme-5.7.0: pkief.material-icon-theme
+2024-07-23 23:01:33.147 [info] Renamed to /home/nicolas/.cursor/extensions/pkief.material-icon-theme-5.7.0
+2024-07-23 23:01:33.150 [info] Extracting extension completed. pkief.material-icon-theme
+2024-07-23 23:01:33.167 [info] Extension installed successfully: pkief.material-icon-theme
+2024-07-23 23:02:19.228 [info] Getting Manifest... ms-python.python
+2024-07-23 23:02:19.242 [info] Installing extension: ms-python.python
+2024-07-23 23:02:22.436 [info] Getting Manifest... ms-python.vscode-pylance
+2024-07-23 23:02:22.551 [info] Installing extension: ms-python.vscode-pylance
+2024-07-23 23:02:22.705 [info] Started downloading extension: ms-python.python 2023.22.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-ms-python.python-2023.22.1
+2024-07-23 23:02:22.742 [info] Started downloading extension: ms-python.vscode-pylance 2023.10.40 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/cursor-ms-python.vscode-pylance-2023.10.40
+2024-07-23 23:02:22.742 [info] Downloading extension to temp location: ms-python.python 2023.22.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.d76b74de-3be0-4a88-a8b7-86cf550ff821
+2024-07-23 23:02:22.744 [info] Downloading extension to temp location: ms-python.vscode-pylance 2023.10.40 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.6394432b-00dc-4fda-877c-0d3bff33b6f9
+2024-07-23 23:02:24.059 [info] Started downloading extension: ms-python.vscode-pylance 2023.10.40 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/ms-python.vscode-pylance-2023.10.40.sigzip
+2024-07-23 23:02:24.062 [info] Downloading extension to temp location: ms-python.vscode-pylance 2023.10.40 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.28b21849-0143-4784-9e85-7a4db74ffbac
+2024-07-23 23:02:24.249 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursorBH5YC0/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursorBH5YC0/resources/app/out/bootstrap-fork.js
+2024-07-23 23:02:24.249 [info] Extension signature verification is not done: ms-python.vscode-pylance
+2024-07-23 23:02:24.252 [info] Started downloading extension: ms-python.python 2023.22.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/ms-python.python-2023.22.1.sigzip
+2024-07-23 23:02:24.257 [info] Downloading extension to temp location: ms-python.python 2023.22.1 file:///home/nicolas/.config/Cursor/CachedExtensionVSIXs/.fc35a0f3-3133-49b6-9000-8e6c56d99f10
+2024-07-23 23:02:24.285 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /tmp/.mount_cursorBH5YC0/resources/app/out/bootstrap-amd.js
+- /tmp/.mount_cursorBH5YC0/resources/app/out/bootstrap-fork.js
+2024-07-23 23:02:24.285 [info] Extension signature verification is not done: ms-python.python
+2024-07-23 23:02:30.301 [info] Extracted extension to file:///home/nicolas/.cursor/extensions/ms-python.python-2023.22.1: ms-python.python
+2024-07-23 23:02:30.311 [info] Renamed to /home/nicolas/.cursor/extensions/ms-python.python-2023.22.1
+2024-07-23 23:02:30.345 [info] Extracting extension completed. ms-python.python
+2024-07-23 23:02:32.828 [info] Extracted extension to file:///home/nicolas/.cursor/extensions/ms-python.vscode-pylance-2023.10.40: ms-python.vscode-pylance
+2024-07-23 23:02:32.849 [info] Renamed to /home/nicolas/.cursor/extensions/ms-python.vscode-pylance-2023.10.40
+2024-07-23 23:02:32.863 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-07-23 23:02:32.878 [info] Extension installed successfully: ms-python.python
+2024-07-23 23:02:32.878 [info] Extension installed successfully: ms-python.vscode-pylance

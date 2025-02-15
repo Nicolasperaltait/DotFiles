@@ -1,0 +1,7 @@
+2024/07/13-15:14:48.855 fdd78 Reusing MANIFEST /home/nicolas/.config/google-chrome/Profile 6/IndexedDB/https_www.mercadolibre.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/13-15:14:48.856 fdd78 Recovering log #3
+2024/07/13-15:14:48.856 fdd78 Reusing old log /home/nicolas/.config/google-chrome/Profile 6/IndexedDB/https_www.mercadolibre.com_0.indexeddb.leveldb/000003.log 
+2024/07/13-15:14:53.387 fdd79 Level-0 table #5: started
+2024/07/13-15:14:53.388 fdd79 Level-0 table #5: 1693 bytes OK
+2024/07/13-15:14:53.390 fdd79 Delete type=0 #3
+2024/07/13-15:14:53.390 fdd79 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,1 @@
+clockifyButton.render(".modal-content .card_container:not(.clockify)",{observe:!0},(t=>{var n,o;o=$(".card_container .body a.title",t).textContent.trim(),n=clockifyButton.createButton(o),$(".card_container .card .top",t).appendChild(n)}));

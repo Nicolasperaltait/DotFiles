@@ -1,0 +1,1 @@
+{"timestamp":1718241421149,"paths":["./README.md","./00-Genesis.sh","./dotfiles/i3/i3status.conf","./dotfiles/i3/config","./dotfiles/polybar/config.ini","./Install.sh","./dotfiles/i3dot/config"]}

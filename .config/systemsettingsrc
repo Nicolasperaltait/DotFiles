@@ -1,0 +1,12 @@
+[MainWindow]
+2 screens: Height=1030
+2 screens: Width=949
+2 screens: XPosition=2044
+2 screens: YPosition=43
+DVI-D-0 HDMI-0=HDMI-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA7UAAAQGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=true

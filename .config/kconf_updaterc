@@ -1,0 +1,11 @@
+updateInfoAdded=true
+
+[filepicker.upd]
+ctime=1719770554
+done=filepicker-remove-old-previews-entry
+mtime=1675588980
+
+[gwenview.upd]
+ctime=1719843660
+done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
+mtime=1677300904

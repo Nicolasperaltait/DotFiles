@@ -1,0 +1,49 @@
+2024/07/24-10:06:29.148 208272 Reusing MANIFEST /home/nicolas/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/24-10:06:29.148 208272 Recovering log #179
+2024/07/24-10:06:29.152 208272 Reusing old log /home/nicolas/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000179.log 
+2024/07/24-10:06:35.733 208272 Compacting 1@1 + 1@2 files
+2024/07/24-10:06:35.753 208272 Generated table #182@1: 88 keys, 148571 bytes
+2024/07/24-10:06:35.753 208272 Compacted 1@1 + 1@2 files => 148571 bytes
+2024/07/24-10:06:35.754 208272 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-10:06:35.754 208272 Delete type=2 #180
+2024/07/24-10:06:35.755 208272 Delete type=2 #178
+2024/07/24-10:07:00.093 208273 Level-0 table #184: started
+2024/07/24-10:07:00.117 208273 Level-0 table #184: 2581264 bytes OK
+2024/07/24-10:07:00.122 208273 Delete type=0 #179
+2024/07/24-13:00:23.095 208272 Compacting 1@1 + 1@2 files
+2024/07/24-13:00:23.111 208272 Generated table #185@1: 278 keys, 715599 bytes
+2024/07/24-13:00:23.111 208272 Compacted 1@1 + 1@2 files => 715599 bytes
+2024/07/24-13:00:23.113 208272 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-13:00:23.113 208272 Delete type=2 #182
+2024/07/24-13:00:23.113 208272 Delete type=2 #184
+2024/07/24-15:51:33.902 208272 Level-0 table #187: started
+2024/07/24-15:51:33.974 208272 Level-0 table #187: 2610588 bytes OK
+2024/07/24-15:51:33.980 208272 Delete type=0 #183
+2024/07/24-15:51:54.006 208272 Compacting 1@1 + 1@2 files
+2024/07/24-15:51:54.026 208272 Generated table #188@1: 233 keys, 566009 bytes
+2024/07/24-15:51:54.026 208272 Compacted 1@1 + 1@2 files => 566009 bytes
+2024/07/24-15:51:54.028 208272 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-15:51:54.028 208272 Delete type=2 #185
+2024/07/24-15:51:54.028 208272 Delete type=2 #187
+2024/07/24-17:38:11.651 208276 Level-0 table #190: started
+2024/07/24-17:38:11.677 208276 Level-0 table #190: 2713948 bytes OK
+2024/07/24-17:38:11.680 208276 Delete type=0 #186
+2024/07/24-18:12:09.702 208273 Level-0 table #192: started
+2024/07/24-18:12:09.711 208273 Level-0 table #192: 1083034 bytes OK
+2024/07/24-18:12:09.713 208273 Delete type=0 #189
+2024/07/24-18:12:09.714 208273 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 128622 : 0
+2024/07/24-18:12:09.714 208273 Compacting 1@0 + 1@1 files
+2024/07/24-18:12:09.730 208273 Generated table #193@0: 1384 keys, 1003008 bytes
+2024/07/24-18:12:09.730 208273 Compacted 1@0 + 1@1 files => 1003008 bytes
+2024/07/24-18:12:09.731 208273 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/24-18:12:09.732 208273 Delete type=2 #192
+2024/07/24-18:12:09.732 208273 Delete type=2 #190
+2024/07/24-18:12:09.732 208273 Manual compaction at level-0 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 128622 : 0 .. (end); will stop at (end)
+2024/07/24-18:12:09.732 208273 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 128622 : 0
+2024/07/24-18:12:09.733 208273 Compacting 1@1 + 1@2 files
+2024/07/24-18:12:09.736 208273 Generated table #194@1: 61 keys, 12269 bytes
+2024/07/24-18:12:09.737 208273 Compacted 1@1 + 1@2 files => 12269 bytes
+2024/07/24-18:12:09.738 208273 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/24-18:12:09.738 208273 Delete type=2 #193
+2024/07/24-18:12:09.738 208273 Delete type=2 #188
+2024/07/24-18:12:09.738 208273 Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 128622 : 0 .. (end); will stop at (end)

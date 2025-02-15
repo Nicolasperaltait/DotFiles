@@ -1,0 +1,23 @@
+2024-07-23 23:03:05.492 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-23 23:03:05.492 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-23 23:03:05.492 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-23 23:03:05.492 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-23 23:03:05.492 [info] Experiment 'pythonTestAdapter' is active
+2024-07-23 23:03:05.659 [info] Test server listening.
+2024-07-23 23:03:05.677 [info] > conda info --json
+2024-07-23 23:03:06.208 [info] Found: /bin/python3 --> /bin/python3.11
+2024-07-23 23:03:06.210 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-07-23 23:03:06.216 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-07-23 23:03:06.216 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-07-23 23:03:06.216 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-07-23 23:03:06.216 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-07-23 23:03:06.216 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-07-23 23:03:06.236 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-07-23 23:03:06.236 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-07-23 23:03:06.266 [info] > /bin/python3 -I ~/.cursor/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-07-23 23:03:06.282 [info] > /usr/bin/python3 -I ~/.cursor/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.cursor/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-07-23 23:03:06.355 [info] Python interpreter path: /bin/python3
+2024-07-23 23:03:06.363 [info] Send text to terminal: echo /usr/bin/zsh
+2024-07-23 23:03:07.184 [info] Starting Pylance language server.
+2024-07-23 23:03:09.364 [info] Shell integration is not working for zsh
+2024-07-23 23:03:09.365 [warning] Shell integration is not active, environment activated maybe overriden by the shell.

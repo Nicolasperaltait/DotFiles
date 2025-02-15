@@ -1,0 +1,78 @@
+{
+   "checksum": "1f2fae71e982de26107fde2b90bbb7ab",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13249365626614981",
+            "date_last_used": "13364868051503027",
+            "guid": "ab3f6f40-0ceb-4a01-a16f-cd1eaeaccc1d",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13364615597597780",
+            "date_last_used": "13365365162746667",
+            "guid": "e1120e43-d0f6-4037-bf5a-13e554585b84",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "MercadoPago",
+            "type": "url",
+            "url": "https://www.mercadopago.com.ar/home"
+         }, {
+            "date_added": "13364616330787429",
+            "date_last_used": "13365363321306116",
+            "guid": "9b6e8a30-ff9d-4c33-ab59-f4f9d39e1911",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Servicio de Telefonía Movil Argentina, 100% Digital | Tuenti Argentina",
+            "type": "url",
+            "url": "https://www.tuenti.com.ar/"
+         }, {
+            "date_added": "13364616870526197",
+            "date_last_used": "13364706489249060",
+            "guid": "ae539d2a-9482-4bed-aa20-87597b60ebab",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Pedir Chip | Tuenti Argentina",
+            "type": "url",
+            "url": "https://pedituchip.tuenti.com.ar/?gafn=TUENTI_linea-nueva&gafl=linea-nueva_SINPROMO&gasn=tus-datos&gast=10"
+         } ],
+         "date_added": "13364611991607392",
+         "date_last_used": "0",
+         "date_modified": "13364616870526197",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13364611991607399",
+         "date_last_used": "0",
+         "date_modified": "13364615597597780",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13364611991607401",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos del celular",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCYOEAwsjHQYAEYOEAwsjHQYAKbewAwsjHQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgEB6BiMdBgARgEB6BiMdBgApfo8DCyMdBgAwgIHps7CkhwMSACoYemJvZXZiZFFwckhLelVYVlZLSTZQUT09SAMS7AEIBxLnAQocTk44RVoyZVJnUU9aNHZHN1luc0FlWGZiUFBrPRJmWjpBRHF0QVp5NHNQbUcvd3c2Vlg3ZnFRMS9qcWR6cUo1ZXEzRUEwZmdqU05pTWdJL29iRy9CQllPanZGekZXeDVUcnU5OGgxeUFiT04rekVqVThUZ0R0S2FoZmVSWE53Z3BrUT09GAAgBCgEMK/KkKvcjocDOJ3Mz4OIMkC/ktCDiDJKHGpRUitHUGxpcStRU1BXNWd1cFRmbnFBanNMYz1aHyId+0lTUXpSYnRFb09WK0w1VENNdjJ1a2oyN0lqWT1l80+NvhLsAQgJEucBChxsVDhYaGtBQ0Q5RjJvWnFVWDdLVE4yM2piV1U9EmZaOkFEcXRBWnk0c1BtRy93dzZWWDdmcVExL2pxZHpRYlZEODEzQXpsWkFHTjJ3SGIzY0RYOEZzbW1MdUxTMUFaREk3S2M5cXJyYU14YmlSSlhpZ1pra3VybHVJWGNlS2wzd3FBPT0YACADKAMwkt+Hi+GOhwM4/qSdhIgyQPH6nYSIMkocNSs3V1R6d29ENFRxUVVxZlVIZHZaekNtOXF3PVofIh3+VkVhdXdNT2tuTzhxalVwd0gzTEZoZ2F5NXdZPWWEDnFlEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeGF0S3NGM01PTnE4S1RlOVZFNHJxK2p2eWh2ZExDV1dPQTJ5dzg3L2phZXNCTUU2TFN6cU4yUVM3SDk5SERrbTRNY0xvY0pyWmtUOC9PVzNCNTFBZFNSTDU5eGc9PRgAIAAoADCcwI73gKT4AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAgS5wEKHGQ3SmJ4Y0Q0b1RSck9hdnFkRUJWekVJTmVwND0SZlo6QURxdEFaeTRzUG1HL3d3NlZYN2ZxUTEvanFkendaS0NZSS9UazlweXN6ajdzdkxRek1Vanh5VW8zekx0aTV2dWk0Tkk4OVUrYzJMeEtTUE12MFFkNVh0alR5MmpaSjNUVEE9PRgAIAIoAjCymqSE346HAzijrPyDiDJApaz8g4gyShx4dVZoMHN1Mnd1b2Njc3ZXa3hxdzlnV0RORkU9Wh8iHf0zdUdlRjFDbEMxeUxHWXBwSC90eFMvL1MrYTg9ZbQiG40SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3Y0F0MnVrMUs3YUJYcjNZT3c5Mkswd3RPUVJvTFF1Z2c0TjF4MGFtVjFQa1ZqcElGeDhEMi9iYnZvajhGaHA5cmJaNEF5VEFyZGZSMUJ3dG9Ub2ZKWSt0cHdIZz09GAAgACgAMJzAjveApPgCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASrQIIBRKoAgocVUJCUitWODRQcE5KNnhEQzFqZWlXcHd5TmlFPRKmAVo6QURxdEFad1lWby9objhtUWFTSkoxU3JaOHJwSlVuT1d4SG5FRk9tMEFTeVgwS3M4VGJzMmxsUTdmcXNCdVUvbEdJbDVuZHRDcW1zekdtYmxvdDNRL2JlMlhUSXZOWTdVSzlvS3gyNUFSZHNZWTRLZmxzTGF5WDF1UUJ6Ujd4cFNTRkZWeitONXVVb2lHQTg0VzZEMWZmcWxKRFAvNnhmS01nPT0YACABKAEwxJ6xrs+OhwM4xZaX2NouQOrI+4GIMkocbk5kVUs2cGZmYitDd2dCMTRWSE83SWFHb05NPVofIh3tTURheWd1UmlFaFI1NzAzTHJQaXlRbDhVc1ZZPWWbPYW2EqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeHRWem5nbExxMjdIUi9yQXphd2xSdkNtMWtKbTJ4Yk5TMkZtYzFJQWRHZ1JlMnZlbEcvNFFnQVdDTEJ1dzI0RmFYV2VmMRgAIAAoADCcwI73gKT4AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

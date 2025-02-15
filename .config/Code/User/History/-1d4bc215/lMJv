@@ -1,0 +1,101 @@
+# i3blocks config file
+#
+# Please see man i3blocks for a complete reference!
+# The man page is also hosted at http://vivien.github.io/i3blocks
+#
+# List of valid properties:
+#
+# align
+# color
+# command
+# full_text
+# instance
+# interval
+# label
+# min_width
+# name
+# separator
+# separator_block_width
+# short_text
+# signal
+# urgent
+
+#==============================================================================================
+# Global properties
+#
+# The top properties below are applied to every block, but can be overridden.
+# Each block command defaults to the script name to avoid boilerplate.
+# Change $SCRIPT_DIR to the location of your scripts!
+command=$SCRIPT_DIR/$BLOCK_NAME
+separator_block_width=12
+markup=none
+
+# The first parameter sets the step (and units to display)
+# The second parameter overrides the mixer selection
+# See the script for details.
+
+#==============================================================================================
+#Genericos del sistema 
+#
+
+# Memory usage
+#[memory]
+#label=RAM
+#command=$SCRIPT_DIR/memory/memory
+#separator=false
+#interval=30
+
+# CPU usage
+#[cpu_usage]
+#label=CPU
+#command=$SCRIPT_DIR/cpu_usage/cpu_usage
+#interval=10
+#min_width=CPU 100.00%
+#separator=false
+
+#[load_average]
+#label=LOAD
+#interval=10
+
+#===================================================================================
+#Es necesario tener //  sudo apt install alsa-utils
+
+[volume-pulseaudio]
+command=$SCRIPT_DIR/volume-pulseaudio/volume-pulseaudio
+interval=once
+signal=1
+#MIXER=[determined automatically]
+#SCONTROL=[determined automatically]
+##exposed format variables: ${SYMB}, ${VOL}, ${INDEX}, ${NAME}
+#LONG_FORMAT="${SYMB} ${VOL}% [${INDEX}:${NAME}]"
+#SHORT_FORMAT="${SYMB} ${VOL}% [${INDEX}]"
+#AUDIO_HIGH_SYMBOL='  '
+#AUDIO_MED_THRESH=50
+#AUDIO_MED_SYMBOL='  '
+#AUDIO_LOW_THRESH=0
+#AUDIO_LOW_SYMBOL='  '
+#AUDIO_DELTA=5
+#DEFAULT_COLOR="#ffffff"
+#MUTED_COLOR="ec3812"
+#USE_ALSA_NAME=0
+#USE_DESCRIPTION=0
+## SUBSCRIBE=1 requires interval=persist and always uses LONG_FORMAT
+#SUBSCRIBE=0
+
+#=============================================================================
+# Calendario Fecha y hora
+[time]
+command=date '+%H:%M/%d-%m' 
+interval=1
+color=#7788B0
+#=============================================================================
+[dunst]
+label=| 
+command=$SCRIPT_DIR/dunst/dunst
+interval=once
+format=json
+markup=pango
+min_width=25
+align=center
+#=============================================================================
+

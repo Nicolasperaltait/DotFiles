@@ -1,0 +1,43 @@
+2024/07/22-14:02:54.097 27db5a Reusing MANIFEST /home/nicolas/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/07/22-14:02:54.097 27db5a Recovering log #600
+2024/07/22-14:02:54.097 27db5a Reusing old log /home/nicolas/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000600.log 
+2024/07/22-14:03:32.886 27db5b Level-0 table #604: started
+2024/07/22-14:03:32.904 27db5b Level-0 table #604: 4131337 bytes OK
+2024/07/22-14:03:32.906 27db5b Delete type=0 #600
+2024/07/22-14:04:27.115 27db5b Level-0 table #606: started
+2024/07/22-14:04:27.139 27db5b Level-0 table #606: 4318416 bytes OK
+2024/07/22-14:04:27.142 27db5b Delete type=0 #603
+2024/07/22-14:04:30.611 27db5b Level-0 table #608: started
+2024/07/22-14:04:30.658 27db5b Level-0 table #608: 4497391 bytes OK
+2024/07/22-14:04:30.660 27db5b Delete type=0 #605
+2024/07/22-14:04:30.661 27db5b Compacting 4@0 + 4@1 files
+2024/07/22-14:04:30.675 27db5b Generated table #609@0: 4 keys, 2500665 bytes
+2024/07/22-14:04:30.690 27db5b Generated table #610@0: 6 keys, 2494858 bytes
+2024/07/22-14:04:30.704 27db5b Generated table #611@0: 2 keys, 2472498 bytes
+2024/07/22-14:04:30.763 27db5b Generated table #612@0: 2 keys, 4497391 bytes
+2024/07/22-14:04:30.773 27db5b Generated table #613@0: 10 keys, 1281292 bytes
+2024/07/22-14:04:30.773 27db5b Compacted 4@0 + 4@1 files => 13246704 bytes
+2024/07/22-14:04:30.774 27db5b compacted to: files[ 0 5 5 0 0 0 0 ]
+2024/07/22-14:04:30.775 27db5b Delete type=2 #599
+2024/07/22-14:04:30.775 27db5b Delete type=2 #597
+2024/07/22-14:04:30.775 27db5b Delete type=2 #604
+2024/07/22-14:04:30.775 27db5b Delete type=2 #596
+2024/07/22-14:04:30.775 27db5b Delete type=2 #606
+2024/07/22-14:04:30.775 27db5b Delete type=2 #598
+2024/07/22-14:04:30.775 27db5b Delete type=2 #608
+2024/07/22-14:04:30.775 27db5b Delete type=2 #601
+2024/07/22-14:04:30.780 27db5b Compacting 1@1 + 1@2 files
+2024/07/22-14:04:30.843 27db5b Generated table #614@1: 2 keys, 4497391 bytes
+2024/07/22-14:04:30.843 27db5b Compacted 1@1 + 1@2 files => 4497391 bytes
+2024/07/22-14:04:30.845 27db5b compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/07/22-14:04:30.845 27db5b Delete type=2 #528
+2024/07/22-14:04:30.845 27db5b Delete type=2 #612
+2024/07/22-17:04:39.737 27db5a Level-0 table #616: started
+2024/07/22-17:04:39.925 27db5a Level-0 table #616: 6459779 bytes OK
+2024/07/22-17:04:39.927 27db5a Delete type=0 #607
+2024/07/22-19:03:44.270 27db5a Level-0 table #618: started
+2024/07/22-19:03:44.295 27db5a Level-0 table #618: 5565535 bytes OK
+2024/07/22-19:03:44.298 27db5a Delete type=0 #615
+2024/07/22-19:04:41.054 27db5b Level-0 table #620: started
+2024/07/22-19:04:41.103 27db5b Level-0 table #620: 6170573 bytes OK
+2024/07/22-19:04:41.104 27db5b Delete type=0 #617

@@ -1,0 +1,20 @@
+2024-06-18 23:49:05.986 [warning] Missing property "repositoryData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:05.986 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:05.986 [warning] Missing property "hallucinatedFunctionsWorkspaceState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:05.986 [warning] Missing property "persistentThoughtAnnotationState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:05.986 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:05.987 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:05.987 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2024-06-18 23:49:06.250 [info] Started local extension host with pid 157594.
+2024-06-18 23:49:07.570 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at j.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:21456:6690)
+2024-06-18 23:49:09.965 [info] [perf] Render performance baseline is 35ms
+2024-06-18 23:49:18.960 [error] Error while registering log channel file:///home/nicolas/.config/Cursor/logs/20240618T234903/window1/exthost/anysphere.cursor-retrieval/Cursor%20extension%20logs.log Timed out while waiting for file to be created
+2024-06-18 23:49:22.303 [error] Unable to read file '/media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/00-Genesis.sh' (Error: Unable to resolve nonexistent file '/media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/00-Genesis.sh'): Error: Unable to read file '/media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/00-Genesis.sh' (Error: Unable to resolve nonexistent file '/media/nicolas/Almacen/00-MiCodigo/01-ReposGithub/i3/00-Genesis.sh')
+    at o.F (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:1136:20541)
+    at o.C (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:1136:20336)
+    at async d.M (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:21993:42693)
+    at async d.readStream (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:21993:42450)
+    at async P.Cb (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:21982:14995)
+    at async P.resolve (vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:21982:13442)
+    at async vscode-file://vscode-app/tmp/.mount_cursorhHTQsI/resources/app/out/vs/workbench/workbench.desktop.main.js:21993:38560

@@ -1,0 +1,6 @@
+2024-07-23 13:47:49.717 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-07-23 13:47:49.799 [info] Started local extension host with pid 3683553.
+2024-07-23 13:47:50.714 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at j.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursorpXOnjI/resources/app/out/vs/workbench/workbench.desktop.main.js:21456:6690)
+2024-07-23 13:47:53.531 [info] [perf] Render performance baseline is 45ms
+2024-07-23 13:48:02.769 [error] Error while registering log channel file:///home/nicolas/.config/Cursor/logs/20240723T134747/window1/exthost/anysphere.cursor-retrieval/Cursor%20extension%20logs.log Timed out while waiting for file to be created

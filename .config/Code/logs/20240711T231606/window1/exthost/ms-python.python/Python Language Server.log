@@ -1,0 +1,15 @@
+2024-07-11 23:16:15.154 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-11 23:16:15.754 [info] [Info  - 23:16:15] (962031) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-11 23:16:15.754 [info] [Info  - 23:16:15] (962031) Server root directory: file:///home/nicolas/.vscode/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-11 23:18:22.899 [info] [Info  - 23:18:22] (962031) Starting service instance "<default>"
+2024-07-11 23:18:22.975 [info] [Info  - 23:18:22] (962031) Setting pythonPath for service "<default>": "/bin/python3"
+2024-07-11 23:18:22.976 [info] [Info  - 23:18:22] (962031) Setting environmentName for service "<default>": "3.11.2 (global)"
+2024-07-11 23:18:22.977 [info] [Info  - 23:18:22] (962031) No include entries specified; assuming /<default workspace root>
+2024-07-11 23:18:22.977 [info] [Info  - 23:18:22] (962031) Auto-excluding **/node_modules
+2024-07-11 23:18:22.981 [info] [Info  - 23:18:22] (962031) Auto-excluding **/__pycache__
+2024-07-11 23:18:22.981 [info] [Info  - 23:18:22] (962031) Auto-excluding **/.*
+2024-07-11 23:18:23.037 [info] [Info  - 23:18:23] (962031) Assuming Python version 3.11.2.final.0
+2024-07-11 23:18:23.116 [info] [Error - 23:18:23] (962031) File or directory "/<default workspace root>" does not exist.
+2024-07-11 23:18:23.116 [info] [Info  - 23:18:23] (962031) No source files found.
+2024-07-11 23:18:23.678 [info] [Info  - 23:18:23] (962031) Background analysis(1) root directory: file:///home/nicolas/.vscode/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-11 23:18:23.681 [info] [Info  - 23:18:23] (962031) Background analysis(1) started
